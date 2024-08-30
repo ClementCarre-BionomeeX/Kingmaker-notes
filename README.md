@@ -1,1 +1,3 @@
 # Kingmaker-notes
+
+[[résumé]] pour une liste (peut-être pas à jour) des évènements/personnages/lieux/autres...
