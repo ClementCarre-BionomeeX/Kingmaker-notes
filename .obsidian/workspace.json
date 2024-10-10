@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "0c8d78d2b89f977e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca86103636bccc1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b3f38d425e50a42",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
+                "mode": "source",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "7efb72d4a9220f9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/personnage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b60bc6684791c8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/personnage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6ea832290bcfc1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/seances/2024 08 29.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80e61055ceaba15d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/seances/2024 08 29.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06084702e1042c13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/évènements/Un cri dans la nuit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "857d102c81e04297",
+    "type": "split",
+    "children": [
+      {
+        "id": "46220692b8a4b4b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a2d6545118e02ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c73e95f3159ef260",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:urgathoal",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "091900ff5a57ca52",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d06f57b5e5a647c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1560f00f4a7e368",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "361220ae60ac2d42",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/évènements/Un cri dans la nuit.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ab0d5689f0e1b1fb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notes/évènements/Un cri dans la nuit.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "c694755a60b38630",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e7ab2ec89397992d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notes/évènements/Un cri dans la nuit.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "06084702e1042c13",
+  "lastOpenFiles": [
+    "notes/seances/2024 08 29.md",
+    "notes/seances/2024 08 31.md",
+    "templates/séance.md",
+    "templates/savoir.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "notes/évènements/Invitation de Jamandi Aldori.md",
+    "notes/personnages/Jamandi Aldori.md",
+    "notes/personnages/Maegar Varn.md",
+    "notes/personnages/Ivenzi.md",
+    "notes/personnages/Hannis Drelev.md",
+    "notes/personnages/Ioseph Sellenius.md",
+    "notes/personnages/Tartuccio.md",
+    "notes/personnages/Linzi.md",
+    "notes/personnages/Valérie.md",
+    "TODO.md",
+    "notes/savoirs/Spectres de Fer.md",
+    "notes/personnages/Amiri.md",
+    "notes/personnages/Jaethal.md",
+    "templates/personnage.md",
+    "templates/lieu.md",
+    "templates/évènement.md",
+    "templates/images/Pasted image 20240830170803.png",
+    "templates/images",
+    "notes/évènements/Un cri dans la nuit.md",
+    "notes/personnages/Harrim.md",
+    "templates",
+    "notes/lieux/Royaumes Fluviaux.md",
+    "notes/lieux/Restov.md",
+    "notes/personnages/portraits/Pasted image 20240830122656.png",
+    "notes/personnages/portraits/Pasted image 20240830122549.png",
+    "notes/personnages/portraits/Pasted image 20240830122243.png",
+    "notes/personnages/portraits/Pasted image 20240830122119.png",
+    "notes/personnages/portraits/Pasted image 20240830122819.png",
+    "notes/personnages/portraits/Pasted image 20240830122807.png",
+    "notes/personnages/portraits/Pasted image 20240830122752.png",
+    "notes/personnages/portraits/Pasted image 20240830122738.png",
+    "notes/personnages/portraits/Pasted image 20240830122727.png",
+    "notes/personnages/portraits",
+    "notes/savoirs",
+    "notes/évènements",
+    "notes/lieux"
+  ]
+}
