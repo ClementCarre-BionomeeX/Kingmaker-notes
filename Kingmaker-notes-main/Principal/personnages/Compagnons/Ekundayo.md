@@ -1,0 +1,11 @@
+![[Pasted image 20241029201431.png]]
+![[Pasted image 20241029220454.png]]
+
+Nous le rencontrons dans la foret, bléssé et inconscient. Nous sauvons son chien d'une attaque de loup et il nous conduit à lui
+l a un air stoique et impassible
+C'est un chasseur
+Influensable grâce à la connaissance des geants et Survie
+
+Il voulais tuer le troll par vengeance personnelle car c'est un disciple de [[Gragglebarde]]
+
+Ne veut pas donner un nom a son chien pour éviter de s'attacher

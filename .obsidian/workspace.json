@@ -1,131 +1,83 @@
 {
   "main": {
-    "id": "0c8d78d2b89f977e",
+    "id": "2410e6c923447946",
     "type": "split",
     "children": [
       {
-        "id": "ca86103636bccc1a",
+        "id": "be9f41ffd17e2410",
         "type": "tabs",
         "children": [
           {
-            "id": "6b3f38d425e50a42",
+            "id": "6c9c2773284e2516",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO.md",
-                "mode": "source",
-                "source": true
-              },
-              "pinned": true
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vue graphique"
             }
           },
           {
-            "id": "7efb72d4a9220f9c",
+            "id": "e72582a8c25a9817",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/personnage.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b60bc6684791c8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/personnage.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6ea832290bcfc1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/seances/2024 08 29.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80e61055ceaba15d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/seances/2024 08 29.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06084702e1042c13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/évènements/Un cri dans la nuit.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vue graphique"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "857d102c81e04297",
+    "id": "4c1520ee8c6d36ac",
     "type": "split",
     "children": [
       {
-        "id": "46220692b8a4b4b5",
+        "id": "a7b063cb33e609fa",
         "type": "tabs",
         "children": [
           {
-            "id": "1a2d6545118e02ce",
+            "id": "48a3c88eb71b97ea",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
             }
           },
           {
-            "id": "c73e95f3159ef260",
+            "id": "4771b5219bc3bd84",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:urgathoal",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
             }
           },
           {
-            "id": "091900ff5a57ca52",
+            "id": "57989cc67f2a974d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signet"
             }
           }
         ]
@@ -135,61 +87,68 @@
     "width": 300
   },
   "right": {
-    "id": "d06f57b5e5a647c3",
+    "id": "b8d073afb1673276",
     "type": "split",
     "children": [
       {
-        "id": "c1560f00f4a7e368",
+        "id": "31c6bbf55788d1cb",
         "type": "tabs",
         "children": [
           {
-            "id": "361220ae60ac2d42",
+            "id": "e319633404944003",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/évènements/Un cri dans la nuit.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Rétroliens"
             }
           },
           {
-            "id": "ab0d5689f0e1b1fb",
+            "id": "952bc913ad9b75db",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/évènements/Un cri dans la nuit.md",
+                "file": "Kingmaker-notes-main/notes/personnages/Les antagonistes/Tartuccio.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              }
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de Tartuccio"
             }
           },
           {
-            "id": "c694755a60b38630",
+            "id": "650b76adf4d09251",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
             }
           },
           {
-            "id": "e7ab2ec89397992d",
+            "id": "098df33be15c1fb4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/évènements/Un cri dans la nuit.md"
-              }
+                "file": "Kingmaker-notes-main/notes/personnages/Les antagonistes/Tartuccio.md"
+              },
+              "icon": "lucide-list",
+              "title": "Plan de Tartuccio"
             }
           }
         ]
@@ -200,57 +159,62 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "06084702e1042c13",
+  "active": "e72582a8c25a9817",
   "lastOpenFiles": [
-    "notes/seances/2024 08 29.md",
-    "notes/seances/2024 08 31.md",
-    "templates/séance.md",
-    "templates/savoir.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "notes/évènements/Invitation de Jamandi Aldori.md",
-    "notes/personnages/Jamandi Aldori.md",
-    "notes/personnages/Maegar Varn.md",
-    "notes/personnages/Ivenzi.md",
-    "notes/personnages/Hannis Drelev.md",
-    "notes/personnages/Ioseph Sellenius.md",
-    "notes/personnages/Tartuccio.md",
-    "notes/personnages/Linzi.md",
-    "notes/personnages/Valérie.md",
-    "TODO.md",
-    "notes/savoirs/Spectres de Fer.md",
-    "notes/personnages/Amiri.md",
-    "notes/personnages/Jaethal.md",
-    "templates/personnage.md",
-    "templates/lieu.md",
-    "templates/évènement.md",
-    "templates/images/Pasted image 20240830170803.png",
-    "templates/images",
-    "notes/évènements/Un cri dans la nuit.md",
-    "notes/personnages/Harrim.md",
-    "templates",
-    "notes/lieux/Royaumes Fluviaux.md",
-    "notes/lieux/Restov.md",
-    "notes/personnages/portraits/Pasted image 20240830122656.png",
-    "notes/personnages/portraits/Pasted image 20240830122549.png",
-    "notes/personnages/portraits/Pasted image 20240830122243.png",
-    "notes/personnages/portraits/Pasted image 20240830122119.png",
-    "notes/personnages/portraits/Pasted image 20240830122819.png",
-    "notes/personnages/portraits/Pasted image 20240830122807.png",
-    "notes/personnages/portraits/Pasted image 20240830122752.png",
-    "notes/personnages/portraits/Pasted image 20240830122738.png",
-    "notes/personnages/portraits/Pasted image 20240830122727.png",
-    "notes/personnages/portraits",
+    "Kingmaker-notes-main/Principal/seances/2024 10 10.md",
+    "Kingmaker-notes-main/Principal/seances/2024 10 25.md",
+    "Kingmaker-notes-main/Principal/seances/2024 10 29.md",
+    "Kingmaker-notes-main/Principal/évènements/Les Rumeurs.md",
+    "Kingmaker-notes-main/Principal/lieux/Comptoir commercial d'oleg.md",
+    "Kingmaker-notes-main/Principal/évènements/Histoire/11. Rencontre Ekundayo.md",
+    "Kingmaker-notes-main/Principal/évènements/Histoire/10. Kobol ecaille de suie deviennent nos alliés.md",
+    "Kingmaker-notes-main/Principal/évènements/Histoire/09. Mort Tartuccio Tartuk.md",
+    "notes/Mort Tartuccio/Tartuk.md",
+    "notes/Mort Tartuccio",
+    "Kingmaker-notes-main/Principal/seances/2024 10 03.md",
+    "Kingmaker-notes-main/Principal/seances/2024 09 26.md",
+    "Kingmaker-notes-main/Principal/seances/2024 09 17.md",
+    "Kingmaker-notes-main/Principal/évènements/Histoire/08. Donjon Grand Syccomore.md",
+    "Kingmaker-notes-main/Principal/évènements/Histoire/07. Attaque du Camp de Kressel.md",
+    "Kingmaker-notes-main/Principal/seances/2024 09 12.md",
+    "Kingmaker-notes-main/Principal/évènements/Histoire/06. Rencontre de Nok-Nok.md",
+    "Kingmaker-notes-main/Principal/évènements/Histoire/03. Obtention de notre mission.md",
+    "Kingmaker-notes-main/Principal/évènements/Histoire/02. Un cri dans la nuit.md",
+    "Kingmaker-notes-main/Principal/évènements/Histoire/01. Invitation de Jamandi Aldori.md",
+    "Kingmaker-notes-main/Principal/évènements/Histoire/04. Arrivée au comptoir d'Oleg.md",
+    "Kingmaker-notes-main/Principal/évènements/Histoire/05. Rêve de l'esprit de la foret.md",
+    "Kingmaker-notes-main/Principal/seances/2024 09 05.md",
+    "Kingmaker-notes-main/Principal/seances/2024 08 31.md",
+    "Kingmaker-notes-main/Principal/seances/2024 08 29.md",
+    "Kingmaker-notes-main/Principal/personnages/Compagnons/Jaethal.md",
+    "Kingmaker-notes-main/Principal/évènements/SIDEQUEESSSSTT/Terminés/Aider Jamandi Aldori.md",
     "notes/savoirs",
-    "notes/évènements",
-    "notes/lieux"
+    "notes/Images/Pasted image 20241029235527.png",
+    "notes/Images/Pasted image 20241029235506.png",
+    "notes/Images/Pasted image 20241029234617.png",
+    "notes/Images/image.webp",
+    "notes/Images/1de3878152951ff65dadd68f891bb1b6--adult-cartoons-fantasy-rpg.webp",
+    "notes/Images/Pasted image 20241029234351.png",
+    "notes/Images/Pasted image 20241029234243.png",
+    "notes/Images/Pasted image 20241029220454.png",
+    "notes/Images/Pasted image 20241029201431.png",
+    "Kingmaker-notes-main/notes/personnages/Compagnons/Sans titre",
+    "Kingmaker-notes-main/Principal/personnages/ILS SONT MORTS",
+    "notes/Images/Pasted image 20241023211946.png",
+    "notes",
+    "Kingmaker-notes-main/Principal/personnages/Compagnons",
+    "Kingmaker-notes-main/Principal/personnages/Autre",
+    "Kingmaker-notes-main/Principal/personnages/Les antagonistes",
+    "Kingmaker-notes-main/Principal/évènements/Histoire",
+    "Kingmaker-notes-main/Principal/évènements/SIDEQUEESSSSTT/Terminés",
+    "Sans titre.canvas"
   ]
 }
