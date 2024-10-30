@@ -5,8 +5,8 @@ tags:
 ![[Pasted image 20240830122715.png|right]]![[Pasted image 20240830122727.png|right]] 
 **Information Obtenues**
 Nous traite comme des moins que rien
-Aime les flateries
-fan de Castruccio Irroveti le roi de pitax
+Aime les flatteries
+fan de Castruccio Irroveti le roi de Pitax
 N'apprécie pas trop [[Linzi]]
 
 La mission qui lui est confiée est la gestion d'un village d'homme crapaud a l'est d'ici
@@ -20,16 +20,16 @@ il voulais s'emparer du royaume avec les kobold
 il fait tout pour le roi de Pitax (c'est un traitre)
 
 
-Nous le laisson a la merci de nos nouveau alliés les Kobols ecaille de suie tout en sachant qu'ils lui réservent une fin funeste
+Nous le laissons a la merci de nos nouveau alliés les Kobolds écaille de suie tout en sachant qu'ils lui réservent une fin funeste
 
 **Objet lié:**
-journal de tartuk écrit en Sagvroth
+journal de Tartuk écrit en Sakvroth
 
 
 **Lieu:**
 [[Manoir de Dame Jamandi]]
 [[Pitax]]
 
-Avatar de Tartucio: Tartuk
+Avatar de Tartuccio: Tartuk
 
 ![[Pasted image 20241023211946.png]]

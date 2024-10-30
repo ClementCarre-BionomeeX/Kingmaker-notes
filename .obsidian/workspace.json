@@ -21,10 +21,12 @@
             "id": "e72582a8c25a9817",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "type": "image",
+              "state": {
+                "file": "notes/Images/Pasted image 20240830122819.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20240830122819"
             }
           }
         ],
@@ -50,7 +52,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorateur de fichiers"
+              "title": "Files"
             }
           },
           {
@@ -84,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 466.5
   },
   "right": {
     "id": "b8d073afb1673276",
@@ -100,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/Images/Pasted image 20240830122819.png",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -109,7 +112,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rétroliens"
+              "title": "Backlinks for Pasted image 20240830122819"
             }
           },
           {
@@ -159,56 +162,57 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "e72582a8c25a9817",
   "lastOpenFiles": [
-    "Kingmaker-notes-main/Principal/seances/2024 10 10.md",
-    "Kingmaker-notes-main/Principal/seances/2024 10 25.md",
+    "notes/Images/Pasted image 20241029234351.png",
+    "notes/Images/Pasted image 20240830122738.png",
+    "notes/Images/Pasted image 20241029234617.png",
+    "notes/Images/Pasted image 20240830122727.png",
+    "notes/Images/Pasted image 20241023211946.png",
     "Kingmaker-notes-main/Principal/seances/2024 10 29.md",
-    "Kingmaker-notes-main/Principal/évènements/Les Rumeurs.md",
-    "Kingmaker-notes-main/Principal/lieux/Comptoir commercial d'oleg.md",
-    "Kingmaker-notes-main/Principal/évènements/Histoire/11. Rencontre Ekundayo.md",
-    "Kingmaker-notes-main/Principal/évènements/Histoire/10. Kobol ecaille de suie deviennent nos alliés.md",
-    "Kingmaker-notes-main/Principal/évènements/Histoire/09. Mort Tartuccio Tartuk.md",
-    "notes/Mort Tartuccio/Tartuk.md",
-    "notes/Mort Tartuccio",
-    "Kingmaker-notes-main/Principal/seances/2024 10 03.md",
-    "Kingmaker-notes-main/Principal/seances/2024 09 26.md",
-    "Kingmaker-notes-main/Principal/seances/2024 09 17.md",
-    "Kingmaker-notes-main/Principal/évènements/Histoire/08. Donjon Grand Syccomore.md",
-    "Kingmaker-notes-main/Principal/évènements/Histoire/07. Attaque du Camp de Kressel.md",
-    "Kingmaker-notes-main/Principal/seances/2024 09 12.md",
-    "Kingmaker-notes-main/Principal/évènements/Histoire/06. Rencontre de Nok-Nok.md",
-    "Kingmaker-notes-main/Principal/évènements/Histoire/03. Obtention de notre mission.md",
-    "Kingmaker-notes-main/Principal/évènements/Histoire/02. Un cri dans la nuit.md",
-    "Kingmaker-notes-main/Principal/évènements/Histoire/01. Invitation de Jamandi Aldori.md",
-    "Kingmaker-notes-main/Principal/évènements/Histoire/04. Arrivée au comptoir d'Oleg.md",
-    "Kingmaker-notes-main/Principal/évènements/Histoire/05. Rêve de l'esprit de la foret.md",
-    "Kingmaker-notes-main/Principal/seances/2024 09 05.md",
-    "Kingmaker-notes-main/Principal/seances/2024 08 31.md",
-    "Kingmaker-notes-main/Principal/seances/2024 08 29.md",
+    "Kingmaker-notes-main/Principal/savoirs/Dieux/Shelin.md",
+    "Kingmaker-notes-main/Principal/savoirs/Dieux/Gorum.md",
+    "Kingmaker-notes-main/Principal/savoirs/Dieux/Urgathoa.md",
+    "Kingmaker-notes-main/Principal/savoirs/Dieux/Erastil.md",
+    "Kingmaker-notes-main/Principal/savoirs/Spectres de Fer.md",
+    "Kingmaker-notes-main/Principal/savoirs/Les six libertés.md",
+    "Kingmaker-notes-main/Principal/personnages/Les antagonistes/Gragglebarde.md",
+    "Kingmaker-notes-main/Principal/personnages/ILS SONT MORTS/Tartuccio.md",
+    "Kingmaker-notes-main/Principal/personnages/Compagnons/Valérie.md",
+    "Kingmaker-notes-main/Principal/personnages/Compagnons/Nok-Nok.md",
+    "Kingmaker-notes-main/Principal/personnages/Compagnons/Linzi.md",
     "Kingmaker-notes-main/Principal/personnages/Compagnons/Jaethal.md",
-    "Kingmaker-notes-main/Principal/évènements/SIDEQUEESSSSTT/Terminés/Aider Jamandi Aldori.md",
+    "Kingmaker-notes-main/Principal/personnages/Compagnons/Harrim.md",
+    "Kingmaker-notes-main/Principal/personnages/Compagnons/Ekundayo.md",
+    "Kingmaker-notes-main/Principal/personnages/Autre/Oleg et Svetlana.md",
+    "Un trophée pour Oleg.md",
+    "Kingmaker-notes-main/Principal/personnages/Autre/Maegar Varn.md",
+    "Kingmaker-notes-main/Principal/personnages/Autre/Kesten Garess.md",
+    "Kingmaker-notes-main/Principal/personnages/Autre/Jhod Kavken.md",
+    "Kingmaker-notes-main/Principal/personnages/Autre/Jamandi Aldori.md",
+    "Kingmaker-notes-main/Principal/personnages/Autre/Ivenzi.md",
+    "Kingmaker-notes-main/Principal/personnages/Autre/Ioseph Sellenius.md",
+    "Kingmaker-notes-main/Principal/personnages/Autre/Hannis Drelev.md",
+    "Kingmaker-notes-main/Principal/personnages/Autre/Esprit de la foret.md",
+    "notes/Mort Tartuccio",
     "notes/savoirs",
     "notes/Images/Pasted image 20241029235527.png",
     "notes/Images/Pasted image 20241029235506.png",
-    "notes/Images/Pasted image 20241029234617.png",
     "notes/Images/image.webp",
     "notes/Images/1de3878152951ff65dadd68f891bb1b6--adult-cartoons-fantasy-rpg.webp",
-    "notes/Images/Pasted image 20241029234351.png",
     "notes/Images/Pasted image 20241029234243.png",
     "notes/Images/Pasted image 20241029220454.png",
-    "notes/Images/Pasted image 20241029201431.png",
     "Kingmaker-notes-main/notes/personnages/Compagnons/Sans titre",
     "Kingmaker-notes-main/Principal/personnages/ILS SONT MORTS",
-    "notes/Images/Pasted image 20241023211946.png",
     "notes",
     "Kingmaker-notes-main/Principal/personnages/Compagnons",
     "Kingmaker-notes-main/Principal/personnages/Autre",

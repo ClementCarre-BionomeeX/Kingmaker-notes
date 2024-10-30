@@ -1,2 +1,2 @@
 
-Débarasser la région du [[Seigneur Cerf]]
+Débarrasser la région du [[Seigneur Cerf]]

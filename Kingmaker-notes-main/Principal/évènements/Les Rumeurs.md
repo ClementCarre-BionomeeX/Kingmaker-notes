@@ -5,7 +5,7 @@
 
 - des explorateur gnomes ont pretendu cartographier le coin et sont partis vers la moufette
 
-- 12 - Un hermite au sud est trés désagréable, il parle aux animaux et vie au creu d'un arbre. [[Boken]] (un herboriste) l'appelle le fou du sud
+- 12 - Un hermite au sud est trés désagréable, il parle aux animaux et vie au creu d'un arbre. [[Bokken]] (un herboriste) l'appelle le fou du sud
 
 - 1 - Il parait que personne n'as eu des nouvelles de Breeg Orlivanch un trapeur au comportement odieux. On a entendu dire qu'il aurai laissé le braconage pour rejoindre un camp de bandit pres de la source de l'épine
 

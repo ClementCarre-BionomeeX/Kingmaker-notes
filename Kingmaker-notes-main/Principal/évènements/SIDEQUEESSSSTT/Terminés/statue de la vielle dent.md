@@ -1,4 +1,4 @@
-Récupérer la statue de la vielle dent et la ramener aux Kobold ecaille de suie
+Récupérer la statue de la vielle dent et la ramener aux Kobolds écaille de suie
 
 Mik mek est persuadé que son chef Grudu nous couvrira d'or si on l'aide
 
@@ -9,4 +9,4 @@ Lorsque l'on rend la statue au chef des Kobold il la détruit
 
 Sidequest terminée
 
-Sidequest liée a celle des [[Kobolds ecaille de suie]]
+Sidequest liée a celle des [[Kobolds écaille de suie]]
