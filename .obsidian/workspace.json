@@ -4,33 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "be9f41ffd17e2410",
+        "id": "6c96bd24219f54f5",
         "type": "tabs",
         "children": [
           {
-            "id": "6c9c2773284e2516",
+            "id": "6bacabbec255b341",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
-            }
-          },
-          {
-            "id": "e72582a8c25a9817",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "notes/Images/Pasted image 20240830122819.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20240830122819"
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -52,7 +39,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -86,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 466.5
+    "width": 466.5,
+    "collapsed": true
   },
   "right": {
     "id": "b8d073afb1673276",
@@ -102,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Images/Pasted image 20240830122819.png",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -112,7 +99,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasted image 20240830122819"
+              "title": "Rétroliens"
             }
           },
           {
@@ -162,55 +149,54 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "e72582a8c25a9817",
+  "active": "6bacabbec255b341",
   "lastOpenFiles": [
+    "Kingmaker-notes-main/Principal/lieux/Golarion.md",
+    "Kingmaker-notes-main/Principal/savoirs/Dieux/Serenrae.md",
+    "Kingmaker-notes-main/Principal/savoirs/Dieux/Erastil.md",
+    "Kingmaker-notes-main/Principal/savoirs/Dieux/Gorum.md",
+    "Kingmaker-notes-main/Principal/savoirs/Dieux/Urgathoa.md",
+    "Kingmaker-notes-main/Principal/savoirs/Dieux/Shelin.md",
+    "notes/Images/Pasted image 20241111204850.png",
+    "Kingmaker-notes-main/Principal/seances/2024 11 07.md",
+    "Kingmaker-notes-main/Principal/personnages/Compagnons/Tristian.md",
+    "Kingmaker-notes-main/Principal/personnages/Autre/Jhod Kavken.md",
+    "Kingmaker-notes-main/Principal/évènements/SIDEQUEESSSSTT/Temple d'Erastil.md",
+    "Kingmaker-notes-main/Principal/savoirs/Les six libertés.md",
+    "notes/Images/Pasted image 20241111203047.png",
+    "Kingmaker-notes-main/Principal/évènements/Les Rumeurs de La zone centrale.md",
+    "Kingmaker-notes-main/Principal/personnages/Autre/Esprit de la foret.md",
+    "notes/Images/Pasted image 20241111202017.png",
+    "Kingmaker-notes-main/Principal/seances/2024 08 29.md",
+    "Kingmaker-notes-main/Principal/personnages/Autre/Bokken.md",
+    "Kingmaker-notes-main/Principal/évènements/SIDEQUEESSSSTT/Mort au Seigneur Cerf.md",
+    "Kingmaker-notes-main/Principal/seances/2024 10 29.md",
+    "Kingmaker-notes-main/Principal/évènements/SIDEQUEESSSSTT/Trouver le mercenaire.md",
+    "Kingmaker-notes-main/Principal/évènements/SIDEQUEESSSSTT/Un trophée pour Oleg.md",
+    "Kingmaker-notes-main/Principal/évènements/SIDEQUEESSSSTT/Terminés/Le Sanglier Goutière.md",
+    "Kingmaker-notes-main/Principal/évènements/Histoire/01. Invitation de Jamandi Aldori.md",
+    "notes/Images/Pasted image 20240830122819.png",
     "notes/Images/Pasted image 20241029234351.png",
     "notes/Images/Pasted image 20240830122738.png",
     "notes/Images/Pasted image 20241029234617.png",
     "notes/Images/Pasted image 20240830122727.png",
     "notes/Images/Pasted image 20241023211946.png",
-    "Kingmaker-notes-main/Principal/seances/2024 10 29.md",
-    "Kingmaker-notes-main/Principal/savoirs/Dieux/Shelin.md",
-    "Kingmaker-notes-main/Principal/savoirs/Dieux/Gorum.md",
-    "Kingmaker-notes-main/Principal/savoirs/Dieux/Urgathoa.md",
-    "Kingmaker-notes-main/Principal/savoirs/Dieux/Erastil.md",
     "Kingmaker-notes-main/Principal/savoirs/Spectres de Fer.md",
-    "Kingmaker-notes-main/Principal/savoirs/Les six libertés.md",
     "Kingmaker-notes-main/Principal/personnages/Les antagonistes/Gragglebarde.md",
     "Kingmaker-notes-main/Principal/personnages/ILS SONT MORTS/Tartuccio.md",
     "Kingmaker-notes-main/Principal/personnages/Compagnons/Valérie.md",
     "Kingmaker-notes-main/Principal/personnages/Compagnons/Nok-Nok.md",
-    "Kingmaker-notes-main/Principal/personnages/Compagnons/Linzi.md",
-    "Kingmaker-notes-main/Principal/personnages/Compagnons/Jaethal.md",
-    "Kingmaker-notes-main/Principal/personnages/Compagnons/Harrim.md",
-    "Kingmaker-notes-main/Principal/personnages/Compagnons/Ekundayo.md",
-    "Kingmaker-notes-main/Principal/personnages/Autre/Oleg et Svetlana.md",
-    "Un trophée pour Oleg.md",
-    "Kingmaker-notes-main/Principal/personnages/Autre/Maegar Varn.md",
-    "Kingmaker-notes-main/Principal/personnages/Autre/Kesten Garess.md",
-    "Kingmaker-notes-main/Principal/personnages/Autre/Jhod Kavken.md",
-    "Kingmaker-notes-main/Principal/personnages/Autre/Jamandi Aldori.md",
-    "Kingmaker-notes-main/Principal/personnages/Autre/Ivenzi.md",
-    "Kingmaker-notes-main/Principal/personnages/Autre/Ioseph Sellenius.md",
-    "Kingmaker-notes-main/Principal/personnages/Autre/Hannis Drelev.md",
-    "Kingmaker-notes-main/Principal/personnages/Autre/Esprit de la foret.md",
     "notes/Mort Tartuccio",
     "notes/savoirs",
     "notes/Images/Pasted image 20241029235527.png",
-    "notes/Images/Pasted image 20241029235506.png",
-    "notes/Images/image.webp",
-    "notes/Images/1de3878152951ff65dadd68f891bb1b6--adult-cartoons-fantasy-rpg.webp",
-    "notes/Images/Pasted image 20241029234243.png",
-    "notes/Images/Pasted image 20241029220454.png",
     "Kingmaker-notes-main/notes/personnages/Compagnons/Sans titre",
     "Kingmaker-notes-main/Principal/personnages/ILS SONT MORTS",
     "notes",

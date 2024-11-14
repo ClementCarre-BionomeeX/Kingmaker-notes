@@ -1,6 +1,6 @@
 ![[image 1.webp]]
 
-Le maire de ressof à envoyé des soldats pour protéger le [[comptoir]], il est leur chef
+Le maire de ressof à envoyé des soldats pour protéger le [[Comptoir commercial d'oleg]], il est leur chef
 
 
 **Lieu:**

@@ -4,3 +4,5 @@
 Pretre errant d'[[Erastil]]
 
 ll a eu une vision d'un [[Temple d'Erastil]] corrompu quelque part dans les marches de narl plus au sud il aimerai le reconsacrer mais pour cela il a besoin qu'on sécurise le lieu ([[Temple d'Erastil]])
+
+[[Tristian]] a entendu parler d'un pretre qui a été bani de chez lui (possiblement Jhod)
