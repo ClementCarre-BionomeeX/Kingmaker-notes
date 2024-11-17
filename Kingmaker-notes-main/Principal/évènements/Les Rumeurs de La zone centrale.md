@@ -16,3 +16,5 @@
 - 8- Le chasseur dit avoir vu une licorne dans les bande de narl mais personne ne la vu depuis longtemps aurais t'elle été chassée?
 
 - 4- ~~les bandits se montrent plus organisé, ils sont mené par un bandit vêtu d'os d'animaux qui se fait appeler le seigneur cerf~~
+
+- 10 - un soldat en permission a dit que l'amis d'un ami d'un ami est un magicien itinérant disparu dans les terres depuis longtemps, son grimoire est surement perdu dans les broussailles quelque part

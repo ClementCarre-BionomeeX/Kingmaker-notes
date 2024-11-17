@@ -8,8 +8,9 @@
 - Si ils disent trois fois non ça réfute la règle (modifié)
 - Son village s'est fait bouffer par une hydre alors qu'il était parti chercher des tritons et s'est retrouver bloquer (modifié)
 - n'a aucun skill social
+- croi en 
 
-influence plus facile en connaissance de la pègre
+influence plus facile en connaissance de la pègre, religion (Lamashtu n'est pas forcement la meilleur déesse a prier pour devenir un héro), intimidation il respecte les rapports de force
 
 Lieu:
 [[Comptoir commercial d'oleg]]

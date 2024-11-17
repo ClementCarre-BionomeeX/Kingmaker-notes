@@ -8,3 +8,9 @@ On tombe sur [[Tristian]] qui cherche a libérer le temple de la coruption
 On bute l'ours zombi possédé qui garde le lieu
 
 En tres mauvais etat depuis tréééésss longtemps
+
+On escorte [[Jhod Kavken]] jusqu'au temple et on le laisse sur place pour reconsacrer l'endroit
+
+SIDEQUEST TERMINEE
+
+
