@@ -5,9 +5,9 @@
 
 - 14  - des explorateur gnomes ont pretendu cartographier le coin et sont partis vers la moufette
 
-- 12 - Un hermite au sud est trés désagréable, il parle aux animaux et vie au creu d'un arbre. [[Bokken]] (un herboriste) l'appelle le fou du sud
+- 12 - ~~Un hermite au sud est trés désagréable, il parle aux animaux et vie au creu d'un arbre. [[Bokken]] (un herboriste) l'appelle le fou du sud~~ **On l'as tué aprés qu'il ai voulu nous piéger et découvert chez lui la sidequest [[Les trésors de la tombe]]**
 
-- 1 ~~- Il parait que personne n'as eu des nouvelles de Breeg Orlivanch un trapeur au comportement odieux. On a entendu dire qu'il aurai laissé le braconage pour rejoindre un camp de bandit pres de la source de l'épine~~ (Tué par un de ses propre piège a cause de deux fée, un petit dragon et une semi insecte dégueu)
+- 1 ~~- Il parait que personne n'as eu des nouvelles de Breeg Orlivanch un trapeur au comportement odieux. On a entendu dire qu'il aurai laissé le braconage pour rejoindre un camp de bandit pres de la source de l'épine~~ **(Tué par un de ses propre piège a cause de deux fée, un petit dragon et une semi insecte dégueu)**
 
 - 17 - Au sud de la grotte des Kobold, une ancienne structure en ruine construite par des grand pied avec de grande oreilles est soit remplie de trésor soit hanté ou pire 
 
