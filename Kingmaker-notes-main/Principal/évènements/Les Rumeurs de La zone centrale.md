@@ -1,9 +1,9 @@
 
 - 19 - Au sud sur le lac (le lac en forme de pate de dinosaure kameland) ce trouve l'ile au chandelle, un lieu gardé par un monstre mortel et ou la barrière entre les monde la plus étroite
 
-- 13  - les derniers trapeurs ont parlé d'un dragon rouge qui vie dans les marches de narl (à l'ouest)
+- 13  - les derniers trappeurs ont parlé d'un dragon rouge qui vie dans les marches de narl (à l'ouest)
 
-- 14  - des explorateur gnomes ont pretendu cartographier le coin et sont partis vers la moufette
+- 14  - des explorateur gnomes ont prétendu cartographier le coin et sont partis vers la moufette
 
 - 12 - ~~Un hermite au sud est trés désagréable, il parle aux animaux et vie au creu d'un arbre. [[Bokken]] (un herboriste) l'appelle le fou du sud~~ **On l'as tué aprés qu'il ai voulu nous piéger et découvert chez lui la sidequest [[Les trésors de la tombe]]**
 

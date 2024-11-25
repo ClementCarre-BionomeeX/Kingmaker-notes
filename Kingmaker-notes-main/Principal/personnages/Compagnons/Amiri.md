@@ -9,7 +9,7 @@ tags:
 barbare qui aime l'athlétisme et la guerre. 
 a une grosse epée qu'elle a recup sur un geant de glace
 à été banie de son clan/tribu
-vien d'un clan de gros teubé mascu
+vien d'un clan de gros teubé mascu, elle a été banie car elle voulais se battre
 
 Lieu:
 [[Manoir de Dame Jamandi]]
