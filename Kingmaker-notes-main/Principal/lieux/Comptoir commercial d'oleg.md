@@ -12,7 +12,7 @@ Deviens le lieu de regroupement de nos compagnons
 [[L'alliance de Svetlana]]
 [[Le Sanglier Goutière]]
 [[Soupe de Radis]]
-[[Kingmaker-notes-main/Principal/évènements/SIDEQUEESSSSTT/Un trophée pour Oleg]]
+[[Un trophée pour Oleg]]
 [[Trouver le mercenaire]]
 [[Temple d'Erastil]]
 [[Mort au Seigneur Cerf]]

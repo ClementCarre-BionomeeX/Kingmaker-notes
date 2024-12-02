@@ -8,6 +8,8 @@ tags:
 Ancien champion de [[Shelin]] ultra saoulé par elle maintenant
 Sensible à diplomacy, décorum et cadre
 
+Nommée Trésorière de notre royaume (bof)
+
 **Lieu:**
 [[Manoir de Dame Jamandi]]
 [[Comptoir commercial d'oleg]]

@@ -18,6 +18,8 @@ Jaethal a du fuir kionin dont elle est originaire. Elle a du faire des rituels e
 
 Elle connais un rituel qui permet de devenir mort vivant (elle propose a Hel Morigan de l'aider a le réaliser)
 
+Nommée Emissaire de notre royaume, est particulièrement investie
+
 
 **Lieu:**
 [[Manoir de Dame Jamandi]]

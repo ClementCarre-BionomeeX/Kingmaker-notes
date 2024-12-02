@@ -13,6 +13,8 @@ Elle aime pas Iroveti le roi de Pitax, car il fait que de l'art de la propagande
 est passionée par toutes nos actions
 
 
+Nommée Conseiller de notre royaume, est particulièrement investie
+
 **Lieu:**
 [[Manoir de Dame Jamandi]]
 [[Pitax]]
