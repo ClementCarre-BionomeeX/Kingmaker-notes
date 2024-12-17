@@ -8,5 +8,7 @@ tags:
 Avanturier
 Traine avec des gens chelou
 
+A crée son propre royaume
+
 **Lieu**
 [[Manoir de Dame Jamandi]]

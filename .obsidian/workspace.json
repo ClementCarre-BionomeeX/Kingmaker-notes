@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kingmaker-notes-main/Principal/seances/2024 12 01.md",
+                "file": "Kingmaker-notes-main/Principal/lieux/Notre Royaume/Hurebrume.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024 12 01"
+              "title": "Hurebrume"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kingmaker-notes-main/Principal/seances/2024 12 01.md",
+                "file": "Kingmaker-notes-main/Principal/lieux/Notre Royaume/Hurebrume.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour 2024 12 01"
+              "title": "Rétrolien pour Hurebrume"
             }
           },
           {
@@ -139,13 +139,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kingmaker-notes-main/notes/personnages/Les antagonistes/Tartuccio.md"
+                "file": "Kingmaker-notes-main/Principal/lieux/Notre Royaume/Hurebrume.md"
               },
               "icon": "lucide-list",
-              "title": "Plan de Tartuccio"
+              "title": "Plan de Hurebrume"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -161,54 +162,53 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "48a3c88eb71b97ea",
+  "active": "6bacabbec255b341",
   "lastOpenFiles": [
+    "notes/Images/Pasted image 20241217095249.png",
+    "Kingmaker-notes-main/Principal/seances/2024-12-12.md",
+    "Kingmaker-notes-main/Principal/seances/2024-12-08.md",
+    "Kingmaker-notes-main/Principal/personnages/Les antagonistes/Gragglebarde.md",
+    "Sans titre.canvas",
+    "notes/Images/Pasted image 20241217095117.png",
+    "notes/Images/Pasted image 20241217095031.png",
+    "Kingmaker-notes-main/Principal/lieux/Lieu d'intérêt.md",
+    "Kingmaker-notes-main/Principal/personnages/Compagnons/Ekundayo.md",
+    "Kingmaker-notes-main/Principal/seances/Partie 1/2024 12 01.md",
+    "Kingmaker-notes-main/Principal/personnages/Autre/Elga Verniex.md",
+    "notes/Images/Pasted image 20241217094052.png",
+    "notes/Images/Pasted image 20241217093938.png",
+    "Kingmaker-notes-main/Principal/évènements/SIDEQUEESSSSTT/sidequest non officielle l'épée d'amiri.md",
+    "Kingmaker-notes-main/Principal/seances/2024-12-05.md",
+    "Kingmaker-notes-main/Principal/lieux/Rost.md",
+    "Kingmaker-notes-main/Principal/personnages/Compagnons/Harrim.md",
+    "Kingmaker-notes-main/Principal/personnages/Compagnons/Valérie.md",
+    "Kingmaker-notes-main/Principal/personnages/Compagnons/Amiri.md",
+    "Kingmaker-notes-main/Principal/lieux/Notre Royaume/Hurebrume.md",
+    "Kingmaker-notes-main/Principal/personnages/Autre/Hannis Drelev.md",
+    "Kingmaker-notes-main/Principal/personnages/Autre/Maegar Varn.md",
+    "Kingmaker-notes-main/Principal/évènements/SIDEQUEESSSSTT/Terminés/Les trésors de la tombe.md",
+    "Kingmaker-notes-main/Principal/évènements/Les Rumeurs de La zone centrale.md",
+    "Kingmaker-notes-main/Principal/personnages/Autre/Esprit de la foret.md",
+    "Kingmaker-notes-main/Principal/personnages/Autre/Ioseph Sellenius.md",
+    "Kingmaker-notes-main/Principal/personnages/Autre/Ivenzi.md",
+    "Kingmaker-notes-main/Principal/personnages/Autre/Jamandi Aldori.md",
+    "Kingmaker-notes-main/Principal/personnages/Autre/Jhod Kavken.md",
+    "Kingmaker-notes-main/Principal/personnages/Autre/Kesten Garess.md",
+    "Kingmaker-notes-main/Principal/seances/Partie 1",
+    "Kingmaker-notes-main/Principal/évènements/Histoire/Partie 1/01. Invitation de Jamandi Aldori.md",
     "notes/Images/Pasted image 20241202221934.png",
     "notes/Images/Pasted image 20241202221911.png",
-    "Kingmaker-notes-main/Principal/lieux/Lieu d'intérêt.md",
-    "Kingmaker-notes-main/Principal/personnages/Compagnons/Amiri.md",
-    "Kingmaker-notes-main/Principal/personnages/Compagnons/Valérie.md",
-    "Kingmaker-notes-main/Principal/personnages/Compagnons/Jaethal.md",
-    "Kingmaker-notes-main/Principal/personnages/Compagnons/Linzi.md",
-    "Kingmaker-notes-main/Principal/lieux/Notre Royaume Sanglier/Notre Royaume.md",
-    "Kingmaker-notes-main/Principal/lieux/Manoir de Dame Jamandi.md",
-    "Kingmaker-notes-main/Principal/lieux/Pitax.md",
-    "Kingmaker-notes-main/Principal/lieux/Restov.md",
-    "Kingmaker-notes-main/Principal/lieux/Royaumes Fluviaux.md",
-    "Kingmaker-notes-main/Principal/seances/2024 12 01.md",
-    "Kingmaker-notes-main/Principal/lieux/Notre Royaume Sanglier",
-    "Kingmaker-notes-main/Principal/évènements/Les Rumeurs de La zone centrale.md",
-    "Kingmaker-notes-main/Principal/seances/2024 11 28.md",
-    "Kingmaker-notes-main/Principal/seances/2024 11 24.md",
-    "Kingmaker-notes-main/Principal/évènements/SIDEQUEESSSSTT/Terminés/Mort au Seigneur Cerf.md",
-    "Kingmaker-notes-main/Principal/évènements/SIDEQUEESSSSTT/Terminés/Un trophée pour Oleg.md",
-    "Kingmaker-notes-main/Principal/évènements/SIDEQUEESSSSTT/Terminés/Trouver le mercenaire.md",
+    "Kingmaker-notes-main/Principal/lieux/Notre Royaume",
     "notes/Images/Pasted image 20241202214840.png",
     "notes/Images/Pasted image 20241202213840.png",
-    "Kingmaker-notes-main/Principal/savoirs/Dieux/Erastil.md",
-    "Kingmaker-notes-main/Principal/savoirs/Dieux/Groétus.md",
-    "Kingmaker-notes-main/Principal/savoirs/Dieux/Serenrae.md",
-    "Kingmaker-notes-main/Principal/savoirs/Spectres de Fer.md",
-    "Kingmaker-notes-main/Principal/savoirs/Les six libertés.md",
-    "Kingmaker-notes-main/Principal/savoirs/Dieux/Shelin.md",
-    "Kingmaker-notes-main/Principal/savoirs/Dieux/Urgathoa.md",
-    "Kingmaker-notes-main/Principal/personnages/ILS SONT MORTS/Seigneur Cerf.md",
     "notes/Images/Pasted image 20241202212356.png",
-    "notes/Images/Pasted image 20241202212331.png",
-    "notes/Images/Pasted image 20241202212110.png",
-    "notes/Images/Pasted image 20241202211927.png",
     "Kingmaker-notes-main/Principal/évènements/Histoire/Partie 2",
     "Kingmaker-notes-main/Principal/évènements/Histoire/Partie 1",
-    "notes/Images/Pasted image 20241125210708.png",
-    "notes/Images/Pasted image 20241121233155.png",
-    "notes/Images/Pasted image 20241121231337.png",
-    "Sans titre.canvas",
     "notes/Mort Tartuccio",
     "notes/savoirs",
     "Kingmaker-notes-main/notes/personnages/Compagnons/Sans titre",
     "Kingmaker-notes-main/Principal/personnages/ILS SONT MORTS",
     "notes",
-    "Kingmaker-notes-main/Principal/personnages/Compagnons",
-    "Kingmaker-notes-main/Principal/personnages/Autre"
+    "Kingmaker-notes-main/Principal/personnages/Compagnons"
   ]
 }

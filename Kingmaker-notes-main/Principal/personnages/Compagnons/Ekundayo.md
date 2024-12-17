@@ -9,3 +9,5 @@ Influençable grâce à la connaissance des géants et Survie
 Il voulais tuer le troll par vengeance personnelle car c'est un disciple de [[Gragglebarde]]
 
 Ne veut pas donner un nom a son chien pour éviter de s'attacher
+
+Shen arrive a le draguer en lui parlant de survie

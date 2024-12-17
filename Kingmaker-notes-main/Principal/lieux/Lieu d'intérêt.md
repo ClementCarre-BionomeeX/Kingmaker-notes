@@ -4,3 +4,4 @@ hex #5.18 baie de crocs et toiles d'araignées
 hex #6.21 Tertre solitaire quète [[Les trésors de la tombe]]
 hex #6.19 [[Camp du seigneur Cerf]]
 hex #7.20 Passage a gaie
+hex #8.17 ile avec des petites hutes

@@ -1,0 +1,1 @@
+on réussi à envoyé un représentant diplomatique à Rost et a créer un lien commercial avec eux
