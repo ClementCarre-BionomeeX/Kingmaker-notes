@@ -29,7 +29,7 @@ Il est MORT
 [[Camp du seigneur Cerf]]
 
 **Evenement**
-[[Les Rumeurs de La zone centrale]]
+[[Rumeurs de La zone centrale]]
 SIDEQUEST [[Mort au Seigneur Cerf]]
 SIDEQUEST [[Trouver le mercenaire]]
 SIDEQUEST [[Bandits]]

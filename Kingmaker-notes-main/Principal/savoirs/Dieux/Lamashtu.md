@@ -6,5 +6,7 @@
 Deesse des Aberrance, Folie, Monstres et Cauchemars
 N'est pas Maléfique en soit
 
+Elle a détourné des fiélons de leur démon le Barghest et en a fait des dieu pour les gobelins.
+
 **Adeptes connus:**
 [[Nok-Nok]]

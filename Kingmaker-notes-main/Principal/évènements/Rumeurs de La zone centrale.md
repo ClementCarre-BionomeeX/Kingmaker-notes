@@ -1,3 +1,5 @@
+Obtenues:
+1 - 3 - 4 - 8 - 9 - 10 - 12 - 13 - 14 - 17 - 18 - 19
 
 - 19 - Au sud sur le lac (le lac en forme de pate de dinosaure kameland) ce trouve l'ile au chandelle, un lieu gardé par un monstre mortel et ou la barrière entre les monde la plus étroite
 
@@ -18,3 +20,7 @@
 - 4- ~~les bandits se montrent plus organisé, ils sont mené par un bandit vêtu d'os d'animaux qui se fait appeler le seigneur cerf~~
 
 - 10 - un soldat en permission a dit que l'amis d'un ami d'un ami est un magicien itinérant disparu dans les terres depuis longtemps, son grimoire est surement perdu dans les broussailles quelque part
+
+- 9 - Beaucoup de gens ont repéré des végétaux anomaux sur les terres volées
+
+- 18- des hommes lézard violent mené pas un roi lézard qui parle aux esprits de ses ancêtre morts vie au sud
