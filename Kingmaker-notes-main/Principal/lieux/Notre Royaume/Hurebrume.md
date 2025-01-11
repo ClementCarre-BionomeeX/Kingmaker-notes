@@ -7,5 +7,8 @@ Sachez que les porteurs de cette charte, ayant délivré le nord de la Ceinture 
 ![[Pasted image 20241202221911.png]]
 
 
-Valérie passe général, elle kiffe
-Tristian passe trésorier, il le fait avec plaisir mais il est pas ravi
+[[Valérie]] passe général, elle kiffe
+[[Tristian]] passe trésorier, il le fait avec plaisir mais il est pas ravi
+
+[[Ekundayo]] accepte le poste de Gardien
+Kazan prend le poste de tresorier

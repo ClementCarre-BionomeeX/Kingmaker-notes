@@ -8,6 +8,6 @@ il préfère le récupérer vivant
 
 Il etait au camp du seigneur cerf, on l'as tué
 
-on remporte une arme +1 gratuire (pour équiper un de nos sbires)
+on remporte une arme +1 gratuite (pour équiper un de nos sbires)
 
 Quete Terminée
