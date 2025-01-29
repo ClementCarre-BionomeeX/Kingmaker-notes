@@ -1,9 +1,12 @@
 Obtenues:
-1 - 3 - 4 - 8 - 9 - 10 - 12 - 13 - 14 - 17 - 18 - 19
+1 - 3 - 4 - 8 - 9 - 10 - 12 - 13 - 14 - 16 - 17 - 18 - 19 - 20
+
+Manque:
+2 - 5 - 6 - 7 - 11 - 15
 
 - 19 - Au sud sur le lac (le lac en forme de pate de dinosaure kameland) ce trouve l'ile au chandelle, un lieu gardé par un monstre mortel et ou la barrière entre les monde la plus étroite
 
-- 13  - les derniers trappeurs ont parlé d'un dragon rouge qui vie dans les marches de narl (à l'ouest)
+- 13  - les derniers trappeurs ont parlé d'un dragon rouge qui vie dans les marches de narl (à l'ouest)s
 
 - 14  - des explorateur gnomes ont prétendu cartographier le coin et sont partis vers la moufette
 
@@ -13,7 +16,7 @@ Obtenues:
 
 - 17 - Au sud de la grotte des Kobold, une ancienne structure en ruine construite par des grand pied avec de grande oreilles est soit remplie de trésor soit hanté ou pire 
 
-- 3 - rumeur donnée par Svetlana - Le pont qui enjambais la corneille au sud est a été détruit et d'après la rumeur le fantôme du gardien ante le site davik orthiz
+- 3 - ~~rumeur donnée par Svetlana - Le pont qui enjambais la corneille au sud est a été détruit et d'après la rumeur le fantôme du gardien ante le site davik orthiz~~ (fantome apaisé)
 
 - 8- Le chasseur dit avoir vu une licorne dans les lande de narl mais personne ne la vu depuis longtemps aurais t'elle été chassée?
 
@@ -24,3 +27,7 @@ Obtenues:
 - 9 - Beaucoup de gens ont repéré des végétaux anomaux sur les terres volées
 
 - 18- des hommes lézard violent mené pas un roi lézard qui parle aux esprits de ses ancêtre morts vie au sud
+
+- 20 - ~~Sorcière du marai et épouvantail~~ (on l'as déja vu c'est [[Elga Verniex]])
+
+- 16 - Un geant des collines stupide a été apperçu au niveau des collines de camé (au sud), il faut l'éviter ou lui donner un remontant pour qu'il nous laisse tranquille (ou pas)

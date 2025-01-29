@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kingmaker-notes-main/Principal/personnages/Les antagonistes/Kundal le Loup Garoux.md",
+                "file": "Kingmaker-notes-main/Principal/évènements/Rumeurs de La zone centrale.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kundal le Loup Garoux"
+              "title": "Rumeurs de La zone centrale"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kingmaker-notes-main/Principal/personnages/Les antagonistes/Kundal le Loup Garoux.md"
+                "file": "Kingmaker-notes-main/Principal/évènements/Rumeurs de La zone centrale.md"
               },
               "icon": "lucide-list",
-              "title": "Plan de Kundal le Loup Garoux"
+              "title": "Plan de Rumeurs de La zone centrale"
             }
           }
         ],
@@ -164,33 +164,37 @@
   },
   "active": "6bacabbec255b341",
   "lastOpenFiles": [
+    "Kingmaker-notes-main/Principal/évènements/Histoire/Partie 2/19. Arrivées de Kazan.md",
+    "Kingmaker-notes-main/Principal/évènements/Histoire/Partie 2/15. Création de notre Royaume.md",
+    "Kingmaker-notes-main/Principal/évènements/Histoire/Partie 2/16. Des troll dans nos contrées.md",
+    "Kingmaker-notes-main/Principal/évènements/Histoire/Partie 2/17. Noknok ne devient pas un dieu.md",
+    "Kingmaker-notes-main/Principal/évènements/Histoire/Partie 2/18. La mort de Thibald.md",
+    "Kingmaker-notes-main/Principal/seances/2025-01-29.md",
+    "Kingmaker-notes-main/Principal/lieux/Lieu d'intérêt.md",
+    "Kingmaker-notes-main/Principal/seances/2025-01-09.md",
+    "notes/Images/Pasted image 20250129233304.png",
+    "notes/Images/Pasted image 20250129233223.png",
+    "Kingmaker-notes-main/Principal/personnages/Compagnons/Kalikke - Kenerah.md",
+    "notes/Images/Pasted image 20250129232806.png",
+    "notes/Images/Pasted image 20250129232740.png",
+    "Kingmaker-notes-main/Principal/personnages/Compagnons/Jaethal.md",
+    "Kingmaker-notes-main/Principal/évènements/Rumeurs de La zone centrale.md",
+    "Kingmaker-notes-main/Principal/personnages/Autre/Elga Verniex.md",
+    "Kingmaker-notes-main/Principal/personnages/Autre/Esprit de la foret.md",
+    "Kingmaker-notes-main/Principal/personnages/Autre/Jhod Kavken.md",
+    "Kingmaker-notes-main/Principal/évènements/SIDEQUEESSSSTT/non officielle - l'épée d'amiri.md",
+    "Kingmaker-notes-main/Principal/évènements/SIDEQUEESSSSTT/Des crocbaies pour Bokken.md",
+    "Kingmaker-notes-main/Principal/personnages/Les antagonistes/Kundal le Loup Garoux.md",
     "Kingmaker-notes-main/Principal/personnages/Les antagonistes/Gragglebarde.md",
     "Kingmaker-notes-main/Principal/personnages/ILS SONT MORTS/Seigneur Cerf.md",
     "Kingmaker-notes-main/Principal/personnages/ILS SONT MORTS/Tartuccio.md",
     "Kingmaker-notes-main/Principal/seances/2025-01-03.md",
-    "Kingmaker-notes-main/Principal/évènements/Histoire/Partie 2/18. La mort de Thibald.md",
-    "Kingmaker-notes-main/Principal/évènements/Histoire/Partie 2/19. Arrivées de Kazan.md",
     "Kingmaker-notes-main/Principal/personnages/Les antagonistes/Hargulka.md",
-    "Kingmaker-notes-main/Principal/personnages/Les antagonistes/Kundal le Loup Garoux.md",
-    "Kingmaker-notes-main/Principal/seances/2025-01-09.md",
-    "Kingmaker-notes-main/Principal/évènements/SIDEQUEESSSSTT/non officielle - l'épée d'amiri.md",
     "Kingmaker-notes-main/Principal/évènements/SIDEQUEESSSSTT/Terminés/Le revenant du Pont.md",
     "Kingmaker-notes-main/Principal/lieux/Notre Royaume/Hurebrume.md",
     "notes/Images/Pasted image 20250111203440.png",
     "Kingmaker-notes-main/Principal/personnages/Compagnons/Harrim.md",
     "Kingmaker-notes-main/Principal/seances/Partie 1/2024 12 01.md",
-    "Kingmaker-notes-main/Principal/savoirs/Dieux/Erastil.md",
-    "Kingmaker-notes-main/Principal/savoirs/Dieux/Gorum.md",
-    "Kingmaker-notes-main/Principal/savoirs/Dieux/Groétus.md",
-    "Kingmaker-notes-main/Principal/savoirs/Dieux/Lamashtu.md",
-    "Kingmaker-notes-main/Principal/savoirs/Dieux/Serenrae.md",
-    "Kingmaker-notes-main/Principal/savoirs/Dieux/Shelin.md",
-    "Kingmaker-notes-main/Principal/savoirs/Dieux/Urgathoa.md",
-    "Kingmaker-notes-main/Principal/personnages/Compagnons/Amiri.md",
-    "Kingmaker-notes-main/Principal/personnages/Compagnons/Ekundayo.md",
-    "Kingmaker-notes-main/Principal/personnages/Compagnons/Jaethal.md",
-    "Kingmaker-notes-main/Principal/personnages/Compagnons/Linzi.md",
-    "Kingmaker-notes-main/Principal/personnages/Compagnons/Nok-Nok.md",
     "Kingmaker-notes-main/Principal/évènements/Histoire/Partie 2/Sans titre",
     "Kingmaker-notes-main/Principal/évènements/SIDEQUEESSSSTT/Terminés/Partie 1",
     "notes/Images/Pasted image 20250109213020.png",
@@ -199,10 +203,6 @@
     "notes/Images/Pasted image 20250109204340.png",
     "Kingmaker-notes-main/Principal/lieux/Détruits ou remplacés",
     "notes/Images/Pasted image 20241231111023.png",
-    "notes/Images/Pasted image 20241231105447.png",
-    "notes/Images/Pasted image 20241231101518.png",
-    "notes/Images/Pasted image 20241231100204.png",
-    "notes/Images/Pasted image 20241217095249.png",
     "Sans titre.canvas",
     "Kingmaker-notes-main/Principal/seances/Partie 1",
     "Kingmaker-notes-main/Principal/lieux/Notre Royaume",
