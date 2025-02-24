@@ -12,3 +12,12 @@ Elles ne souhaitent pas s'étendre sur la raison de leur etat
 Kallike pense pouvoir maitriser les actes de sa soeur
 
 ![[Pasted image 20250129232740.png]]
+
+Kallike:
+eau
+a une fibre artistique, elle est sensible a l'artisanat
+
+
+
+Kenerah:
+feu
