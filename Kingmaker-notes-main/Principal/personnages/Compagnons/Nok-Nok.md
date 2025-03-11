@@ -13,6 +13,8 @@
 
 influence plus facile en connaissance de la pègre, religion (Lamashtu n'est pas forcement la meilleur déesse a prier pour devenir un héro), intimidation il respecte les rapports de force
 
+Noknok change d'alignement, devien chaotique neutre. Il comprend que les héros ne sont pas cruel et que [[Lamashtu]] est imparfaite et il l'accepte
+
 Lieu:
 [[Comptoir commercial d'oleg]]
 [[Hurebrume]]

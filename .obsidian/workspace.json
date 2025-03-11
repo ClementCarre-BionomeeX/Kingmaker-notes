@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "2025-03-05"
             }
+          },
+          {
+            "id": "c51b1286514b023a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kingmaker-notes-main/Principal/seances/2025-03-06.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-03-06"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -169,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kingmaker-notes-main/Principal/seances/2025-03-05.md",
+                "file": "Kingmaker-notes-main/Principal/seances/2025-03-06.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de 2025-03-05"
+              "title": "Plan de 2025-03-06"
             }
           }
         ],
@@ -195,44 +209,44 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "3a5fbffaa0b14754",
+  "active": "c51b1286514b023a",
   "lastOpenFiles": [
-    "Kingmaker-notes-main/Principal/lieux/Lieu d'intérêt.md",
-    "Kingmaker-notes-main/Principal/évènements/SIDEQUEESSSSTT/A la recherche des champignon.md",
-    "Kingmaker-notes-main/Principal/évènements/SIDEQUEESSSSTT/Des crocbaies pour Bokken.md",
-    "Kingmaker-notes-main/Principal/évènements/SIDEQUEESSSSTT/non officielle - Déchiffrer les notes du tertre.md",
-    "Kingmaker-notes-main/Principal/évènements/SIDEQUEESSSSTT/non officielle - l'épée d'amiri.md",
-    "Kingmaker-notes-main/Principal/évènements/Histoire/Partie 1/14. La fin du Seigneur Cerf.md",
-    "Kingmaker-notes-main/Principal/évènements/Histoire/Partie 1/06. Rencontre de Nok-Nok.md",
-    "Kingmaker-notes-main/Principal/évènements/Histoire/Partie 1/05. Rêve de l'esprit de la foret.md",
-    "Kingmaker-notes-main/Principal/seances/2025-01-30.md",
-    "Kingmaker-notes-main/Principal/seances/2025-02-13.md",
-    "Kingmaker-notes-main/Principal/seances/2025-02-21.md",
+    "Kingmaker-notes-main/Principal/personnages/Autre/Ivenzi.md",
+    "Kingmaker-notes-main/Principal/personnages/Autre/Jamandi Aldori.md",
+    "Kingmaker-notes-main/Principal/personnages/Autre/Jhod Kavken.md",
+    "Kingmaker-notes-main/Principal/personnages/Autre/Kesten Garess.md",
+    "Kingmaker-notes-main/Principal/personnages/Autre/Maegar Varn.md",
     "Kingmaker-notes-main/Principal/personnages/Autre/Nyrisa - Esprit de la foret.md",
-    "Kingmaker-notes-main/Principal/personnages/Autre/Nyrisa.md",
-    "Kingmaker-notes-main/Principal/personnages/Autre/Elga Verniex.md",
-    "Kingmaker-notes-main/Principal/personnages/Autre/Bokken.md",
+    "Kingmaker-notes-main/Principal/personnages/Autre/Oleg et Svetlana.md",
+    "Kingmaker-notes-main/Principal/seances/2025-03-06.md",
+    "Kingmaker-notes-main/Principal/seances/2025-02-21.md",
     "Kingmaker-notes-main/Principal/seances/2025-03-05.md",
+    "Kingmaker-notes-main/Principal/personnages/Les antagonistes/Grigory.md",
+    "Kingmaker-notes-main/Principal/personnages/Les antagonistes/Hargulka.md",
+    "Kingmaker-notes-main/Principal/personnages/Les antagonistes/Gragglebarde.md",
+    "Kingmaker-notes-main/Principal/savoirs/Les six libertés.md",
+    "Kingmaker-notes-main/Principal/savoirs/Spectres de Fer.md",
+    "Kingmaker-notes-main/Principal/évènements/Rumeurs de La zone centrale.md",
+    "Kingmaker-notes-main/Principal/lieux/Notre Royaume/Tours de royaume.md",
     "Kingmaker-notes-main/Principal/évènements/Histoire/Partie 2/24. Le donjon Oublié.md",
+    "Kingmaker-notes-main/Principal/seances/2025-01-09.md",
+    "Kingmaker-notes-main/Principal/personnages/Compagnons/Nok-Nok.md",
+    "Kingmaker-notes-main/Principal/personnages/Compagnons/Jubilost Narthropple.md",
+    "Kingmaker-notes-main/Principal/lieux/Lieu d'intérêt.md",
+    "Kingmaker-notes-main/Principal/évènements/SIDEQUEESSSSTT/Terminés/Le revenant du Pont.md",
+    "Kingmaker-notes-main/Principal/évènements/SIDEQUEESSSSTT/Terminés/NokNok ce Héros.md",
+    "Kingmaker-notes-main/Principal/évènements/SIDEQUEESSSSTT/Terminés/non officielle - Déchiffrer les notes du tertre.md",
+    "Kingmaker-notes-main/Principal/évènements/SIDEQUEESSSSTT/A la recherche des champignon.md",
+    "notes/Images/Pasted image 20250311205207.png",
+    "notes/Images/Pasted image 20250311204235.png",
+    "notes/Images/Pasted image 20250311204100.png",
+    "notes/Images/Pasted image 20250311204025.png",
     "notes/Images/Pasted image 20250305233045.png",
     "notes/Images/Pasted image 20250305232905.png",
-    "Kingmaker-notes-main/Principal/seances/2025-01-29.md",
-    "Kingmaker-notes-main/Principal/seances/2025-01-09.md",
-    "Kingmaker-notes-main/Principal/seances/2025-01-03.md",
-    "Kingmaker-notes-main/Principal/seances/2024-12-30.md",
-    "Kingmaker-notes-main/Principal/seances/2024-12-12.md",
-    "Kingmaker-notes-main/Principal/seances/2024-12-08.md",
-    "Kingmaker-notes-main/Principal/seances/2024-12-05.md",
-    "Kingmaker-notes-main/Principal/seances/Partie 1/2024 12 01.md",
-    "Kingmaker-notes-main/Principal/seances/Partie 1/2024 11 28.md",
     "notes/Images/Pasted image 20250224184202.png",
     "notes/Images/Pasted image 20250224184140.png",
     "notes/Images/Pasted image 20250224181651.png",
     "notes/Images/Pasted image 20250224180505.png",
-    "notes/Images/Pasted image 20250224180445.png",
-    "notes/Images/Pasted image 20250224180415.png",
-    "notes/Images/Pasted image 20250224175329.png",
-    "notes/Images/Pasted image 20250129233304.png",
     "Kingmaker-notes-main/Principal/évènements/Histoire/Partie 2/Sans titre",
     "Kingmaker-notes-main/Principal/évènements/SIDEQUEESSSSTT/Terminés/Partie 1",
     "Kingmaker-notes-main/Principal/lieux/Détruits ou remplacés",

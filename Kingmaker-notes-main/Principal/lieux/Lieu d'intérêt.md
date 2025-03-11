@@ -17,5 +17,9 @@ hex #7.19 on appercois depuis le lac un chemin qui descend des falaises c'est l'
 
 hex     Le donjon oublié
 
+hex #1.15 Cairn d'un guerrier
+
+hex #4.16 une statue d'erastil
+
 Des tue loup poussent a l'est dans les montagnes au sud de nilacta (zone dangereuse)
 
