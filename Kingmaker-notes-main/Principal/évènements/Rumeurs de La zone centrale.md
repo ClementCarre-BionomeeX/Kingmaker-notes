@@ -6,7 +6,7 @@ Manque:
 
 - 19 - ~~Au sud sur le lac (le lac en forme de pate de dinosaure kameland) ce trouve l'ile au chandelle, un lieu gardé par un monstre mortel et ou la barrière entre les monde la plus étroite~~ [[L'ile aux chandelles]]
 
-- 13  - les derniers trappeurs ont parlé d'un dragon rouge qui vie dans les marches de narl (à l'ouest)s
+- 13  - les derniers trappeurs ont parlé d'un dragon rouge qui vie dans les marches de narl (à l'ouest)
 
 - 14  - ~~des explorateur gnomes ont prétendu cartographier le coin et sont partis vers la moufette~~ **C'est l'expedition de** [[Jubilost Narthropple]]
 
@@ -24,7 +24,7 @@ Manque:
 
 - 10 - un soldat en permission a dit que l'amis d'un ami d'un ami est un magicien itinérant disparu dans les terres depuis longtemps, son grimoire est surement perdu dans les broussailles quelque part
 
-- 9 - Beaucoup de gens ont repéré des végétaux anomaux sur les terres volées
+- 9 - Beaucoup de gens ont repéré des végétaux anomaux sur les terres volées [[24. Le donjon Oublié]]
 
 - 18- ~~des hommes lézard violent mené pas un roi lézard qui parle aux esprits de ses ancêtre morts vie au sud~~  **C'est en fait un feufollet nommé Stisshak qui le manipule, nous n'avons pas eu d'autre choix que de tuer le roi et faire fuir le feufolet** [[22. Les hommes Lezards]]
 

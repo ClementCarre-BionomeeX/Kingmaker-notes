@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kingmaker-notes-main/Principal/seances/2025-03-06.md",
+                "file": "Kingmaker-notes-main/Principal/seances/2025-03-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-06"
+              "title": "2025-03-13"
             }
           }
         ],
@@ -183,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kingmaker-notes-main/Principal/seances/2025-03-06.md",
+                "file": "Kingmaker-notes-main/Principal/seances/2025-03-13.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de 2025-03-06"
+              "title": "Plan de 2025-03-13"
             }
           }
         ],
@@ -211,32 +211,34 @@
   },
   "active": "c51b1286514b023a",
   "lastOpenFiles": [
-    "Kingmaker-notes-main/Principal/personnages/Autre/Ivenzi.md",
-    "Kingmaker-notes-main/Principal/personnages/Autre/Jamandi Aldori.md",
-    "Kingmaker-notes-main/Principal/personnages/Autre/Jhod Kavken.md",
-    "Kingmaker-notes-main/Principal/personnages/Autre/Kesten Garess.md",
-    "Kingmaker-notes-main/Principal/personnages/Autre/Maegar Varn.md",
-    "Kingmaker-notes-main/Principal/personnages/Autre/Nyrisa - Esprit de la foret.md",
-    "Kingmaker-notes-main/Principal/personnages/Autre/Oleg et Svetlana.md",
     "Kingmaker-notes-main/Principal/seances/2025-03-06.md",
-    "Kingmaker-notes-main/Principal/seances/2025-02-21.md",
-    "Kingmaker-notes-main/Principal/seances/2025-03-05.md",
-    "Kingmaker-notes-main/Principal/personnages/Les antagonistes/Grigory.md",
-    "Kingmaker-notes-main/Principal/personnages/Les antagonistes/Hargulka.md",
-    "Kingmaker-notes-main/Principal/personnages/Les antagonistes/Gragglebarde.md",
-    "Kingmaker-notes-main/Principal/savoirs/Les six libertés.md",
-    "Kingmaker-notes-main/Principal/savoirs/Spectres de Fer.md",
-    "Kingmaker-notes-main/Principal/évènements/Rumeurs de La zone centrale.md",
-    "Kingmaker-notes-main/Principal/lieux/Notre Royaume/Tours de royaume.md",
-    "Kingmaker-notes-main/Principal/évènements/Histoire/Partie 2/24. Le donjon Oublié.md",
-    "Kingmaker-notes-main/Principal/seances/2025-01-09.md",
     "Kingmaker-notes-main/Principal/personnages/Compagnons/Nok-Nok.md",
-    "Kingmaker-notes-main/Principal/personnages/Compagnons/Jubilost Narthropple.md",
-    "Kingmaker-notes-main/Principal/lieux/Lieu d'intérêt.md",
-    "Kingmaker-notes-main/Principal/évènements/SIDEQUEESSSSTT/Terminés/Le revenant du Pont.md",
-    "Kingmaker-notes-main/Principal/évènements/SIDEQUEESSSSTT/Terminés/NokNok ce Héros.md",
-    "Kingmaker-notes-main/Principal/évènements/SIDEQUEESSSSTT/Terminés/non officielle - Déchiffrer les notes du tertre.md",
+    "Kingmaker-notes-main/Principal/seances/2025-03-05.md",
+    "Kingmaker-notes-main/Principal/seances/2025-03-13.md",
+    "Kingmaker-notes-main/Principal/savoirs/Dieux/Erastil.md",
+    "Kingmaker-notes-main/Principal/savoirs/Dieux/Gorum.md",
+    "Kingmaker-notes-main/Principal/savoirs/Dieux/Groétus.md",
+    "Kingmaker-notes-main/Principal/savoirs/Dieux/Gyronna.md",
+    "Kingmaker-notes-main/Principal/savoirs/Dieux/Lamashtu.md",
+    "Kingmaker-notes-main/Principal/savoirs/Dieux/Serenrae.md",
+    "Kingmaker-notes-main/Principal/savoirs/Dieux/Shelin.md",
+    "Kingmaker-notes-main/Principal/savoirs/Dieux/Urgathoa.md",
+    "Kingmaker-notes-main/Principal/évènements/Rumeurs de La zone centrale.md",
+    "Kingmaker-notes-main/Principal/personnages/Autre/Elga Verniex.md",
     "Kingmaker-notes-main/Principal/évènements/SIDEQUEESSSSTT/A la recherche des champignon.md",
+    "Kingmaker-notes-main/Principal/personnages/Autre/Vordakaï.md",
+    "Kingmaker-notes-main/Principal/lieux/Lieu d'intérêt.md",
+    "notes/Images/Pasted image 20250313232640.png",
+    "Kingmaker-notes-main/Principal/lieux/L'antre des Trolls.md",
+    "Kingmaker-notes-main/Principal/lieux/L'ile aux chandelles.md",
+    "Kingmaker-notes-main/Principal/lieux/Grand sycomore.md",
+    "Kingmaker-notes-main/Principal/lieux/Golarion.md",
+    "notes/Images/Pasted image 20250313231157.png",
+    "Kingmaker-notes-main/Principal/personnages/Les antagonistes/Grigory.md",
+    "Kingmaker-notes-main/Principal/personnages/Les antagonistes/Gragglebarde.md",
+    "Kingmaker-notes-main/Principal/personnages/Les antagonistes/Hargulka.md",
+    "Kingmaker-notes-main/Principal/personnages/Les antagonistes/Kundal le Loup Garoux.md",
+    "Kingmaker-notes-main/Principal/seances/2025-01-29.md",
     "notes/Images/Pasted image 20250311205207.png",
     "notes/Images/Pasted image 20250311204235.png",
     "notes/Images/Pasted image 20250311204100.png",
@@ -245,8 +247,6 @@
     "notes/Images/Pasted image 20250305232905.png",
     "notes/Images/Pasted image 20250224184202.png",
     "notes/Images/Pasted image 20250224184140.png",
-    "notes/Images/Pasted image 20250224181651.png",
-    "notes/Images/Pasted image 20250224180505.png",
     "Kingmaker-notes-main/Principal/évènements/Histoire/Partie 2/Sans titre",
     "Kingmaker-notes-main/Principal/évènements/SIDEQUEESSSSTT/Terminés/Partie 1",
     "Kingmaker-notes-main/Principal/lieux/Détruits ou remplacés",
