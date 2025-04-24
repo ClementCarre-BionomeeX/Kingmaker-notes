@@ -31,4 +31,7 @@ Clement réduit le unrest de 2
 -------------------------
 
 
+Ce n'est pas vraiment un tour de royaume mais l'attaque du hibours nous met 3 de unrest
+Hel et Shen en soignant la population font regagner 2 de unrest
 
+-------------------------

@@ -8,4 +8,4 @@ A crée une expédition de gnome qui enquête sur l'influence du premier monde s
 
 Il accepte de partager ses carte avec nous si on lui indique des lieu d'intérêts que l'on connais
 
-- le plus simple pour l'influencer est de discuter avec lui de ocnaissance universitaires
+- le plus simple pour l'influencer est de discuter avec lui de conaissance universitaires

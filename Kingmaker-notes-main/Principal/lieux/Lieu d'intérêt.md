@@ -23,5 +23,9 @@ hex #4.16 une statue d'erastil
 
 Hex #9.16 antre du dragon a revenir taper
 
+Hex #9.20 noté dangereuse sur la carte des troll, antre du hibours
+
+Hex #6.16 bosquet de la dryade Tiressia
+
 Des tue loup poussent a l'est dans les montagnes au sud de nilacta (zone dangereuse)
 

@@ -11,3 +11,8 @@ Il voulais tuer le troll par vengeance personnelle car c'est un disciple de [[Gr
 Ne veut pas donner un nom a son chien pour éviter de s'attacher
 
 Shen arrive a le draguer en lui parlant de survie
+
+Quand on le max il nous offre une rhune crocheteuse
+
+il recherche [[Gragglebarde]] car un géant de tué sa femme et sa fille, depuis il déteste les géants de toute sorte
+il s'ouvre a nous mais reste taciturne

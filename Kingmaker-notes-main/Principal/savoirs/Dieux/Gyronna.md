@@ -5,3 +5,6 @@ Gyronna est la déesse des femmes bannies et indésirables de la société : ép
 
 **Adeptes connus:**
 Des occultistes croisées en route qui voulaient envahir notre royaumes (4 on les a buté)
+
+Lien:
+Ses adeptes ont demandé une protection contre [[Vordakai]]
