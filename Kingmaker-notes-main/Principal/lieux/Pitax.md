@@ -7,3 +7,4 @@ Roi: Castruccio Irroveti
 En sont originaires:
 [[Linzi]]
 [[Tartuccio]]
+[[Atalia Gitaren]]

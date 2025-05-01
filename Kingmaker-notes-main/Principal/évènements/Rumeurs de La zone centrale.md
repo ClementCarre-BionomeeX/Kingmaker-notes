@@ -24,12 +24,12 @@
 
 - 10 - un soldat en permission a dit que l'amis d'un ami d'un ami est un magicien itinérant disparu dans les terres depuis longtemps, son grimoire est surement perdu dans les broussailles quelque part
 
-- 9 - Beaucoup de gens ont repéré des végétaux anomaux sur les terres volées [[24. Le donjon Oublié]]
+- 9 - ~~Beaucoup de gens ont repéré des végétaux anomaux sur les terres volées~~ [[24. Le donjon Oublié]]
 
 - 18- ~~des hommes lézard violent mené pas un roi lézard qui parle aux esprits de ses ancêtre morts vie au sud~~  **C'est en fait un feufollet nommé Stisshak qui le manipule, nous n'avons pas eu d'autre choix que de tuer le roi et faire fuir le feufolet** [[22. Les hommes Lezards]]
 
 - 20 - ~~Sorcière du marai et épouvantail~~ (on l'as déja vu c'est [[Elga Verniex]])
 
-- 16 - Un geant des collines stupide a été apperçu au niveau des collines de camé (au sud), il faut l'éviter ou lui donner un remontant pour qu'il nous laisse tranquille (ou pas)
+- 16 - ~~Un geant des collines stupide a été apperçu au niveau des collines de camé (au sud), il faut l'éviter ou lui donner un remontant pour qu'il nous laisse tranquille (ou pas)~~ (on l'as convaincu de quitter la région)
 
 - 6- La principale route commerciale est fermé a cause de bourbérien qui restent dans les marais

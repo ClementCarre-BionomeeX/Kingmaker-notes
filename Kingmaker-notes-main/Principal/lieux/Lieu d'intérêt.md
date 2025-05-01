@@ -27,5 +27,7 @@ Hex #9.20 noté dangereuse sur la carte des troll, antre du hibours
 
 Hex #6.16 bosquet de la dryade Tiressia
 
+Hex #9.19 on voie une station de ferry abandonnée
+
 Des tue loup poussent a l'est dans les montagnes au sud de nilacta (zone dangereuse)
 

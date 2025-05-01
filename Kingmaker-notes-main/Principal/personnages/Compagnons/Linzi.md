@@ -12,6 +12,8 @@ N'apprécie pas [[Tartuccio]] car il soutien leur roi
 Elle aime pas Iroveti le roi de Pitax, car il fait que de l'art de la propagande
 est passionée par toutes nos actions
 
+A été a l'école de [[Atalia Gitaren]] mais l'as quitté avant la fin n'aime pas trop la directrice
+
 
 Nommée Conseiller de notre royaume, est particulièrement investie
 
