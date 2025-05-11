@@ -1,8 +1,8 @@
 **Obtenues:**
-1 - 3 - 4 - 6 - 8 - 9 - 10 - 12 - 13 - 14 - 16 - 17 - 18 - 19 - 20
+1 - 3 - 4 - 6 - 7 - 8 - 9 - 10 - 12 - 13 - 14 - 16 - 17 - 18 - 19 - 20
 
 **Manque:**
-2 - 5 - 7 - 11 - 15
+2 - 5 - 11 - 15
 
 - 19 - ~~Au sud sur le lac (le lac en forme de pate de dinosaure kameland) ce trouve l'ile au chandelle, un lieu gardé par un monstre mortel et ou la barrière entre les monde la plus étroite~~ [[L'ile aux chandelles]]
 
@@ -33,3 +33,5 @@
 - 16 - ~~Un geant des collines stupide a été apperçu au niveau des collines de camé (au sud), il faut l'éviter ou lui donner un remontant pour qu'il nous laisse tranquille (ou pas)~~ (on l'as convaincu de quitter la région)
 
 - 6- La principale route commerciale est fermé a cause de bourbérien qui restent dans les marais
+
+- 7- des moines et des prêtres malfaisant voués a la déesse de la haine vivait autrefois au nord de la défense, il est possible qu'ils y soient encore

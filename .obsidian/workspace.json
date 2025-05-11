@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kingmaker-notes-main/Principal/évènements/Histoire/Partie 1/08. Donjon Grand Syccomore.md",
+                "file": "Kingmaker-notes-main/Principal/évènements/Rumeurs de La zone centrale.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08. Donjon Grand Syccomore"
+              "title": "Rumeurs de La zone centrale"
             }
           }
         ],
@@ -183,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kingmaker-notes-main/Principal/évènements/Histoire/Partie 1/08. Donjon Grand Syccomore.md",
+                "file": "Kingmaker-notes-main/Principal/évènements/Rumeurs de La zone centrale.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de 08. Donjon Grand Syccomore"
+              "title": "Plan de Rumeurs de La zone centrale"
             }
           }
         ],
@@ -211,19 +211,39 @@
   },
   "active": "c51b1286514b023a",
   "lastOpenFiles": [
+    "Kingmaker-notes-main/Principal/seances/2025-05-07.md",
+    "Kingmaker-notes-main/Principal/seances/Partie 2/2025-04-24.md",
+    "Kingmaker-notes-main/Principal/personnages/Autre/Tiressia et Falkos.md",
+    "Kingmaker-notes-main/Principal/évènements/Rumeurs de La zone centrale.md",
+    "Kingmaker-notes-main/Principal/lieux/Lieu d'intérêt.md",
+    "notes/Images/Pasted image 20250511232715.png",
+    "Kingmaker-notes-main/Principal/seances/Partie 2/2025-04-16.md",
+    "Kingmaker-notes-main/Principal/évènements/Histoire/Partie 3/28. Linzi déconne.md",
+    "Kingmaker-notes-main/Principal/seances/Partie 2/2025-05-01.md",
+    "notes/Images/Pasted image 20250511231413.png",
+    "Kingmaker-notes-main/Principal/personnages/Autre/Maitre éobald.md",
+    "notes/Images/Pasted image 20250511231311.png",
+    "notes/Images/Pasted image 20250511230858.png",
+    "notes/Images/Pasted image 20250511230816.png",
+    "notes/Images/Pasted image 20250511213801.png",
+    "Kingmaker-notes-main/Principal/savoirs/Dieux/Vordakai.md",
+    "notes/Images/Pasted image 20250511204146.png",
+    "Kingmaker-notes-main/Principal/évènements/SIDEQUEESSSSTT/Linzi et problème de trésorerie.md",
+    "Kingmaker-notes-main/Principal/personnages/Autre/Maegar Varn.md",
+    "Kingmaker-notes-main/Principal/personnages/Autre/Jamandi Aldori.md",
+    "Kingmaker-notes-main/Principal/personnages/Autre/Jhod Kavken.md",
+    "Kingmaker-notes-main/Principal/personnages/Autre/Kesten Garess.md",
+    "Kingmaker-notes-main/Principal/lieux/Notre Royaume/Tours de royaume.md",
+    "Kingmaker-notes-main/Principal/évènements/SIDEQUEESSSSTT/Terminado/Partie 3",
+    "Kingmaker-notes-main/Principal/évènements/Histoire/Partie 1/08. Donjon Grand Syccomore.md",
     "Kingmaker-notes-main/Principal/lieux/Comptoir commercial d'oleg.md",
     "Kingmaker-notes-main/Principal/lieux/Grand sycomore.md",
     "Kingmaker-notes-main/Principal/personnages/Compagnons/Jaethal.md",
     "Kingmaker-notes-main/Principal/lieux/Kionin.md",
     "Kingmaker-notes-main/Principal/évènements/Histoire/Partie 2/19. Arrivées de Kazan.md",
-    "Kingmaker-notes-main/Principal/évènements/Histoire/Partie 3/Sans titre.md",
     "Kingmaker-notes-main/Principal/seances/Partie 2",
     "Kingmaker-notes-main/Principal/évènements/SIDEQUEESSSSTT/Terminado/Partie 2",
     "Kingmaker-notes-main/Principal/évènements/Histoire/Partie 3",
-    "Kingmaker-notes-main/Principal/seances/Partie 2/2025-05-01.md",
-    "Kingmaker-notes-main/Principal/seances/Partie 2/2025-04-24.md",
-    "Kingmaker-notes-main/Principal/seances/Partie 2/2025-04-16.md",
-    "Kingmaker-notes-main/Principal/évènements/Rumeurs de La zone centrale.md",
     "Kingmaker-notes-main/Principal/personnages/Compagnons/Cybours.md",
     "Kingmaker-notes-main/Principal/évènements/Histoire/Partie 2/27. On adopte Cybours.md",
     "Kingmaker-notes-main/Principal/évènements/SIDEQUEESSSSTT/Terminado/Partie 2/Traquer la Bête.md",
@@ -231,32 +251,12 @@
     "notes/Images/Pasted image 20250502000215.png",
     "notes/Images/Pasted image 20250502000106.png",
     "notes/Images/Pasted image 20250502000040.png",
-    "Kingmaker-notes-main/Principal/lieux/Lieu d'intérêt.md",
-    "notes/Images/Pasted image 20250501234828.png",
-    "notes/Images/Pasted image 20250501233814.png",
-    "Kingmaker-notes-main/Principal/lieux/Notre Royaume/Tours de royaume.md",
-    "notes/Images/Pasted image 20250501233625.png",
-    "Kingmaker-notes-main/Principal/personnages/Compagnons/Linzi.md",
-    "Kingmaker-notes-main/Principal/personnages/Autre/Atalia Gitaren.md",
-    "Kingmaker-notes-main/Principal/personnages/Autre/Bokken.md",
-    "Kingmaker-notes-main/Principal/lieux/Pitax.md",
-    "notes/Images/Pasted image 20250501233207.png",
-    "Kingmaker-notes-main/Principal/personnages/Autre/Maegar Varn.md",
-    "Kingmaker-notes-main/Principal/personnages/Autre/Kesten Garess.md",
-    "Kingmaker-notes-main/Principal/personnages/Les antagonistes/Gragglebarde.md",
-    "Kingmaker-notes-main/Principal/personnages/Les antagonistes/Kundal le Loup Garoux.md",
-    "Kingmaker-notes-main/Principal/personnages/Autre/Nyrisa - Esprit de la foret.md",
-    "Kingmaker-notes-main/Principal/lieux/Notre Royaume/Gaie de tatzl.md",
-    "notes/Images/Pasted image 20250424234634.png",
-    "notes/Images/Pasted image 20250424234611.png",
-    "notes/Images/Pasted image 20250424233708.png",
     "Kingmaker-notes-main/Principal/évènements/Histoire/Partie 2/Sans titre",
     "Kingmaker-notes-main/Principal/évènements/SIDEQUEESSSSTT/Terminado/Partie 1",
     "Kingmaker-notes-main/Principal/lieux/Détruits ou remplacés",
     "Sans titre.canvas",
     "Kingmaker-notes-main/Principal/seances/Partie 1",
     "Kingmaker-notes-main/Principal/lieux/Notre Royaume",
-    "Kingmaker-notes-main/Principal/évènements/Histoire/Partie 2",
-    "Kingmaker-notes-main/Principal/évènements/Histoire/Partie 1"
+    "Kingmaker-notes-main/Principal/évènements/Histoire/Partie 2"
   ]
 }
