@@ -21,3 +21,9 @@ Nommée Conseiller de notre royaume, est particulièrement investie
 [[Manoir de Dame Jamandi]]
 [[Pitax]]
 [[Comptoir commercial d'oleg]]
+
+Sidequest:
+[[Linzi et problème de trésorerie]]
+
+Evenements:
+[[28. Linzi déconne]]

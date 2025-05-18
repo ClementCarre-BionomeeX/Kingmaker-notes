@@ -22,6 +22,8 @@ il fait tout pour le roi de Pitax (c'est un traitre)
 
 Nous le laissons a la merci de nos nouveau alliés les Kobolds écaille de suie tout en sachant qu'ils lui réservent une fin funeste
 
+il voulais se creer une reputation pour impressioner son roi
+
 **Objet lié:**
 journal de Tartuk écrit en Sakvroth
 
