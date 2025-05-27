@@ -6,7 +6,7 @@ tags:
 
 **Information Obtenues:**
 Avanturier
-Traine avec des gens chelou
+Traine avec des gens chelou 
 
 A crée son propre royaume
 

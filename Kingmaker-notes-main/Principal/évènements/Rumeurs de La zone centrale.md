@@ -35,3 +35,5 @@
 - 6- La principale route commerciale est fermé a cause de bourbérien qui restent dans les marais
 
 - 7- des moines et des prêtres malfaisant voués a la déesse de la haine vivait autrefois au nord de la défense, il est possible qu'ils y soient encore
+
+- 2 - ~~La rumeur court que les anciens bandit du seigneur cerf etait des membres dépravé d'une secte diabolique~~ c'était pas vrai

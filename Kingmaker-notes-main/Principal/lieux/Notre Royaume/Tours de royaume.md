@@ -54,3 +54,54 @@ Des habitant se proposent de régler le problème de banditisme, ils travaillent
 ![[Pasted image 20250501233625.png]]
 
 -------------------------
+*2 evènements:*
+- *Le procés de grigori*
+- *Vendéta (deux groupes sont en guerre et possible grande violence)*
+- Arrivée de Edina et joelia Aldori deux femmes qui bossent pour maegar Varn, il a appri pour l'attaque de la bête et nous envoie des personnes de confiance pour nous donner un peu de bois (elles repartent avec Linzi et Valérie comme émissaire pour le remercier
+
+
+Babiole (avec l'aide intimidante de Hel) intervient dans la guerre entre deux gilde de bucheron de [[Gaie de tatzl]] et Castelnosanglar. C'est un echec. **Le unrest augmente de 1 et on ne peut pas recruter d'armée**
+
+Le procés: Kazan est venu avec des preuves, il gagne le proces. [[Grigori]] est bani, il n'aura pas lâché d'info du proces. Il accepte sa punition, on ne devient pas ses Némésis. On lui confisque ses bien. 
+
+Shen tente de créer une sité sur l'ancienne sité naine. C'est un succes , on fonde donc le village [[Le marteau du sanglier]]
+
+-------------------------
+
+*Evenements:*
+- *Notre royaume est attaqué de l'intérieur par des assasins avec une larme noire (cf [[02. Un cri dans la nuit]])*
+
+Babiole gère les larmes noires avec de la société. Les larmes noires mettent leur plan en action mais sont arrété. On prend 1 de unrest
+
+Kazan gère le conflict entre les bucherons. Il les réunis autours d'une tarte au amende pour les diplomatiser. succes critique Ce repas rentre dans les anales et le 8 rova devien le jour de la tarte aux amendes et il est interdit de se disputer ce jour la [[Le jour de la Tarte]]
+
+Shen developpe notre ville, c'est un succes, elle augmente de 2
+
+Hel fait un echec sur deal le unrest et il diminu donc uniquement de 2
+
+-------------------------
+
+*Evenement:* 
+- *découverte, des erudis font de grande découvertes sur les ruine en 4.17*
+- *Une rumeur court sur un gnome étrange au cheveux orange et a l'oeil brillant. Il traine et est vu dans plusieurs endroits incongru il est associé a des axcidents ou problèmes mineurs*
+
+Hel gère la découverte, echec, se sont des découvertes intéréssantes mais pas vraiment déterminentes
+
+Babiole gère la rumeur sur le gnome, succès en société, les enqueteur n'arrivent pas a le pister mais on le voie moins, il disparait de lui même
+
+Shen devellope la sité et on gagne 4 points 
+
+Kazan deal with unrest, avec beaucoup de diplomatie, il tente d'appaiser les coeurs, c'est un succes critique et le unrest tombe à Zéro
+
+-------------------------
+
+*Evenement:* 
+- *les Kobold ecaille de suie  que l'on devais annexer ne l'ont pas encore été et ils commencent a foutre le bordel*
+
+Hell s'occupe des kobold et on les annexe, ce qui nous ajoute le village des écailles de suie: Suiffeux
+
+Shen claim Hex c'est un succes elle claim 6 en direction de [[Comptoir commercial d'oleg]] et chez [[Bokken]]
+
+Kazan n'arrive pas a upgrade la sité
+
+-------------------------
