@@ -17,3 +17,7 @@ Nous a envoyé une missive:
 *Cordialement,* 
 
 *Grand Ranger Jamel Visser*
+
+Le meilleur moyen de l'influencer c'est survie et connaissance de la chasse (pour parler boutique)
+
+Il nous aime vraiment bien et est pret a se rallier à nous
