@@ -8,4 +8,9 @@ A crée une expédition de gnome qui enquête sur l'influence du premier monde s
 
 Il accepte de partager ses carte avec nous si on lui indique des lieu d'intérêts que l'on connais
 
+c'est un universitaire, il n'est pas tres patient (surtout avec les non diplomé), il aime les débat plus qu'avoir raison ou la réponse
+
 - le plus simple pour l'influencer est de discuter avec lui de conaissance universitaires
+- on peut discuter artisanat avec lui pour parler alchimie
+
+a recruté [[Grigori]] pour son journal

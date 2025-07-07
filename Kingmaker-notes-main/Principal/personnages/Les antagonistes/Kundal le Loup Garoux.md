@@ -7,6 +7,8 @@ Loup garoux qui attaque les habitant aux alentours de notre royaume
 
 A tué [[Thibald petit ange parti trop tot]]
 
+A été fait prisonier, soigné de sa malédiction et jugé
+
 Lieu:
 [[Hurebrume]]
 

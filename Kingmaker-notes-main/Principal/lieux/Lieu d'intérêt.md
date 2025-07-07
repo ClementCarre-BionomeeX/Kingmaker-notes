@@ -29,5 +29,8 @@ Hex #6.16 bosquet de la dryade Tiressia
 
 Hex #9.19 on voie une station de ferry abandonnée
 
+Hex #     lac de silverlake qui tient son nom d'une légende qui raconte qu'un grand Dragon aurais laissé ici la trace de sa pâte, abrite un puissant élémentaire d'eau
+
+
 Des tue loup poussent a l'est dans les montagnes au sud de nilacta (zone dangereuse)
 

@@ -17,6 +17,8 @@ A été a l'école de [[Atalia Gitaren]] mais l'as quitté avant la fin n'aime p
 
 Nommée Conseiller de notre royaume, est particulièrement investie
 
+Publie des livres sous le nom de Madame L qui raconte l'histoire de 4 heros qui créent un royaume (elle crée des fanfictions chelou)
+
 **Lieu:**
 [[Manoir de Dame Jamandi]]
 [[Pitax]]
