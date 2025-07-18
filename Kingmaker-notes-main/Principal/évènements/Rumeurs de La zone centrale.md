@@ -1,8 +1,8 @@
 **Obtenues:**
-1 - 3 - 4 - 6 - 7 - 8 - 9 - 10 - 12 - 13 - 14 - 16 - 17 - 18 - 19 - 20
+1 - 2 - 3 - 4 - 6 - 7 - 8 - 9 - 10 - 12 - 13 - 14 - 16 - 17 - 18 - 19 - 20
 
 **Manque:**
-2 - 5 - 11 - 15
+ 5 - 11 - 15
 
 - 19 - ~~Au sud sur le lac (le lac en forme de pate de dinosaure kameland) ce trouve l'ile au chandelle, un lieu gardé par un monstre mortel et ou la barrière entre les monde la plus étroite~~ [[L'ile aux chandelles]]
 

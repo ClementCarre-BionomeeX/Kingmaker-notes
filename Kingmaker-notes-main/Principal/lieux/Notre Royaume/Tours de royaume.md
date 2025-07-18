@@ -105,3 +105,29 @@ Shen claim Hex c'est un succes elle claim 6 en direction de [[Comptoir commercia
 Kazan n'arrive pas a upgrade la sité
 
 -------------------------
+
+*Evènement Floraison:* 
+*Une secte qui prie la floraison se développe dans une de nos communauté
+
+- on envoie NokNok enquéter discrètement
+
+C'est à [[Sanglier Suiffeux]]
+
+**l'agitation augmente de 1**
+
+*Evènement floraison:*
+il y a une explosion au [[Grand sycomore]], et apparition de monstre
+- comme nous sommes trop loin on envoie notre armée l'intimider
+
+le monstre est vaincu mais quelques personnes sont mortes, **l'agitation augmente de 1**
+
+*Evenement floraison:*
+au [[Le marteau du sanglier]], un nain ami d'[[Harrim]] se transforme en horrible monstre, 
+- notre armée se dépêche grâce a une bonne dose d'athlétisme
+
+l'armée arrive et tue le monstre, personne n'est mort, l'agitation n'augmente pas
+
+
+
+-------------------------
+

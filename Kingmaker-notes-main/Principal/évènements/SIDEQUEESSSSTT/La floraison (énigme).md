@@ -2,11 +2,15 @@
 Lors d'une [[33. Invitation à la chasse]] organisée par [[Jamel Visser]] on découvre qu'étrangement es hommes et des animaux eplosent en d'inombrables fleurs pour faire apparaitre des monstres venu d'ailleur
 
 Ce que l'on sais:
-- On note la présence de fleurs étranges, venu d'un autre plan pres des lieux d'explosion
-- Plusieurs personnes explosent et se transforment en monstre qui tuent par jeu
-- On entend parler d'un culte qui répandrai cette affliction dans toute la région et basé dans les étendu sauvages. Babiole entend des rumeurs de cultes qui viennent de notre royaume, elles sont étranges, un truc cloche avec cette histoire de culte
-- Jubilost à étudié les fruits qui apparaissent, il confirme qu'ils viennent du premier monde
-- on découvre que l'affliction est une malédiction d'invocation, leur corps se transforme en portail
+- On note la présence de ==fleurs étranges==, venu d'un autre plan pres des lieux d'explosion
+- Plusieurs ==personnes explosent== et se transforment en monstre qui tuent par jeu
+- On entend parler d'un culte qui répandrai cette affliction dans toute la région et basé dans les étendu sauvages. Babiole entend des rumeurs de ==Culte/secte== qui viennent de [[Sanglier Suiffeux]], elles sont étranges, un truc cloche avec cette histoire de culte
+- Jubilost à étudié les fruits qui apparaissent, il confirme qu'ils ==**viennent du premier monde**==
+- on découvre que l'affliction est une ==**malédiction**== d'invocation, leur corps se transforme en portail (magie divine)
+- une victime de la malédiction ne présente aucun symptôme avant la fin ou de grosses douleurs apparaissent. il est possible de se débarrasser de la malédiction si on la repère avant la fin ce qui est difficile. Le culte semble être ==**apparut en premier chez les gobelins**==
+- les cadavres des victimes contiennent des ==**petites graines noires**==, elles sembles inertes mais une seule graine suffit a activer la malédiction (gorge, estomac, etc...)
+- de nouveaux indices semblent suggérer le lien avec des ==fanatiques gobelins== qui ont établis leur camp dans les sellen hills
+- Un village de gobelin nommé  [[Vert-Ronchon]] serais la source de cette malédiction
 
 
 
@@ -14,12 +18,14 @@ Ce que l'on sais:
 [[Pavillon de chasse L'Auberg'Inn]]
 Le cheval au bord du lac
 [[Varnhold]] (cadavre retrouvé la bas)
+La bibliothèque de [[Restov]]
+Le corps de Jean Lumine
 
 **Lieu ou on pourais mener l'enquète:**
-- [[Bokken]]
+- ~~[[Bokken]]
 - [[Elga Verniex]]
-- [[Maegar Varn]] X
-- Lac Pasd'argent,
+- ~~[[Maegar Varn]] 
+- ~~Lac Pasd'argent,~~
 - [[L'ile aux chandelles]]
 - Perlivache, ([[2024 11 07]])
 - [[Tiressia et Falkos]]
@@ -28,13 +34,14 @@ Le cheval au bord du lac
 - Zone détruite avec des plantes partout,
 - [[24. Le donjon Oublié]]
 - [[Cybours]]
-- Le terrain de chasse, X
-- [[Suiffeux]]
+- ~~Le terrain de chasse
+- [[Sanglier Suiffeux]]
 - Les hommes lezards, 
 - Méliance nymphe du lac [[2025-05-07]]
-- Les centaures,
+- ~~[[Les centaures (nomen)]]~~
+- [[Vert-Ronchon]]
 
 
 **Personnes liées:**
-[[Jamel Visser]] a convoqué la premiere chasse
+[[Jamel Visser]] a convoqué la première chasse
 [[Shen]] sa famille serais morte dans une situation similaire (explosion de fleur)

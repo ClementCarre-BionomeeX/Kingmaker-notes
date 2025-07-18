@@ -31,6 +31,13 @@ Hex #9.19 on voie une station de ferry abandonnée
 
 Hex #     lac de silverlake qui tient son nom d'une légende qui raconte qu'un grand Dragon aurais laissé ici la trace de sa pâte, abrite un puissant élémentaire d'eau
 
+Hex #6.27 un squelette de dragon en haut d'une montagne
+
+Hex #2.28 site funéraire Centaure envahi par des manticores récemment (juste au dessous de restof) 
+
+Hex #4.27 On traverse la plaine et on trouve un zone pleine de trou et dépression, ce qui est étonnant Nous somme dans le domaine de Canquérata une vielle bulette (qui nage dans la terre)
+
+
 
 Des tue loup poussent a l'est dans les montagnes au sud de nilacta (zone dangereuse)
 
