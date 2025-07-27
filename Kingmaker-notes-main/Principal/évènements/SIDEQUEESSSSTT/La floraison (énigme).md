@@ -11,7 +11,8 @@ Ce que l'on sais:
 - les cadavres des victimes contiennent des ==**petites graines noires**==, elles sembles inertes mais une seule graine suffit a activer la malédiction (gorge, estomac, etc...)
 - de nouveaux indices semblent suggérer le lien avec des ==fanatiques gobelins== qui ont établis leur camp dans les sellen hills
 - Un village de gobelin nommé  [[Vert-Ronchon]] serais la source de cette malédiction
-
+- Le fait que cette affliction soit sporadique sugère que le culte n'est pas encore trés implanté. Les gobelin suspecté serais peut ètre que des bouc émissaires. Si on parviens a découvrir ==ou le culte a crée l'affliction== cela permettrai de la supprimer totallement
+- c'est le culte de floraison qui ==vénère [[Lamashtu]]==, il pourrais a [[Vert-Ronchon]] chez les gobelins y avoir des infos sur le véritable culte de la floraison
 
 
 **Lieu de recherche:**
@@ -20,6 +21,8 @@ Le cheval au bord du lac
 [[Varnhold]] (cadavre retrouvé la bas)
 La bibliothèque de [[Restov]]
 Le corps de Jean Lumine
+Les cultistes chelou [[Sanglier Suiffeux]]
+Cadavre [[Grand sycomore]]
 
 **Lieu ou on pourais mener l'enquète:**
 - ~~[[Bokken]]
@@ -35,7 +38,7 @@ Le corps de Jean Lumine
 - [[24. Le donjon Oublié]]
 - [[Cybours]]
 - ~~Le terrain de chasse
-- [[Sanglier Suiffeux]]
+- ~~[[Sanglier Suiffeux]]~~
 - Les hommes lezards, 
 - Méliance nymphe du lac [[2025-05-07]]
 - ~~[[Les centaures (nomen)]]~~
@@ -45,3 +48,5 @@ Le corps de Jean Lumine
 **Personnes liées:**
 [[Jamel Visser]] a convoqué la première chasse
 [[Shen]] sa famille serais morte dans une situation similaire (explosion de fleur)
+
+[[Lamashtu]]

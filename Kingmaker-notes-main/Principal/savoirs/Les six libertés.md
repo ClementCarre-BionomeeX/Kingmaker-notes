@@ -5,7 +5,7 @@ tags:
 Les six libertés sont des coutumes et traditions, utilisées partout dans les [[Royaumes Fluviaux]]
 
 ## **Dites ce que vous voulez, je vis libre** 
-La parole est libre dans les [[Royaumes Fluviaux]], ce qui ne signifie pas pour autant que vous ne subirez pas les conséquences de vos de vos mots
+La parole est libre dans les [[Royaumes Fluviaux]], ce qui ne signifie pas pour autant que vous ne subirez pas les conséquences de vos mots
 
 ## **Mort à celui qui trahit sa parole** 
 Briser ses serments est considéré comme une faute grave dans les [[Royaumes Fluviaux]]

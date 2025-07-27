@@ -14,7 +14,7 @@ vien d'un clan de gros teubé mascu, elle a été banie car elle voulais se batt
 Nommée Général de notre royaume elle aime bof du coup on l'a remplacé
 
 Sidequest:
-[[non officielle - l'épée d'amiri]]
+[[l'épée d'amiri]]
 
 Lieu:
 [[Manoir de Dame Jamandi]]

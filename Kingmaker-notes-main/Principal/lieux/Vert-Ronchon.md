@@ -1,4 +1,4 @@
-Localisation: quelques part dans les colline de sellen (Sellen Hills)
+Localisation: quelques part dans les colline de sellen (Sellen Hills) hex 9.22
 
 Village Gobelin
 

@@ -17,7 +17,7 @@ Noknok change d'alignement, devien chaotique neutre. Il comprend que les héros 
 
 Lieu:
 [[Comptoir commercial d'oleg]]
-[[Hurebrume]]
+[[Castelnaud Sanglar]]
 
 Quète:
 [[NokNok ce Héros]]

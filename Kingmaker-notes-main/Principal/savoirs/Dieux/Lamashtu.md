@@ -10,3 +10,4 @@ Elle a détourné des fiélons de leur démon le Barghest et en a fait des dieu 
 
 **Adeptes connus:**
 [[Nok-Nok]]
+Secte de [[La floraison (énigme)]]

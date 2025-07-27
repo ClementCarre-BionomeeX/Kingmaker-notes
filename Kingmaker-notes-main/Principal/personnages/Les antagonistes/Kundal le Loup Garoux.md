@@ -10,7 +10,7 @@ A tué [[Thibald petit ange parti trop tot]]
 A été fait prisonier, soigné de sa malédiction et jugé
 
 Lieu:
-[[Hurebrume]]
+[[Castelnaud Sanglar]]
 
 Evenements:
 [[18. La mort de Thibald]]

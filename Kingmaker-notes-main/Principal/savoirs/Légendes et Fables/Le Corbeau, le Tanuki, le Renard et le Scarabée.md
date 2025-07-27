@@ -1,4 +1,4 @@
-_(Ou : Le Hibours et la Balle invisible)_
+(Ou : Le Hibours et la Balle invisible)
 
 Dans un royaume jeune, en pleine fondation,  
 Vivait une étrange coalition.  
