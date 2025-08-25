@@ -121,11 +121,19 @@ il y a une explosion au [[Grand sycomore]], et apparition de monstre
 
 le monstre est vaincu mais quelques personnes sont mortes, **l'agitation augmente de 1**
 
-*Evenement floraison:*
+
+
+*Evènement floraison:*
 au [[Le marteau du sanglier]], un nain ami d'[[Harrim]] se transforme en horrible monstre, 
 - notre armée se dépêche grâce a une bonne dose d'athlétisme
 
 l'armée arrive et tue le monstre, personne n'est mort, l'agitation n'augmente pas
+
+
+
+*Evènement floraison:*
+Un monstre apparait au [[Le marteau du sanglier]]
+Grace a une aide atlétique [[Valérie]] vainc la créature. Cependant elle avais eu le temps de faire des dégat. **L'agitation augmente de 1**
 
 
 

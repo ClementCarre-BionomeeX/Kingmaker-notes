@@ -1,12 +1,10 @@
 **Obtenues:**
-1 - 2 - 3 - 4 - 6 - 7 - 8 - 9 - 10 - 12 - 13 - 14 - 16 - 17 - 18 - 19 - 20
+1 - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 11 - 12 - 13 - 14 - 15 - 16 - 17 - 18 - 19 - 20
 
-**Manque:**
- 5 - 11 - 15
 
-- 19 - ~~Au sud sur le lac (le lac en forme de pate de dinosaure kameland) ce trouve l'ile au chandelle, un lieu gardé par un monstre mortel et ou la barrière entre les monde la plus étroite~~ [[L'ile aux chandelles]]
+- 19 - ~~Au sud sur le lac (le lac en forme de pate de dinosaure kameland) ce trouve l'ile au chandelle, un lieu gardé par un monstre mortel et ou la barrière entre les monde la plus étroite~~ [[Kingmaker-notes-main/Principal/lieux/L'ile aux chandelles]]
 
-- 13  - les derniers trappeurs ont parlé d'un dragon rouge qui vie dans les marches de narl (à l'ouest)
+- 13  - ~~les derniers trappeurs ont parlé d'un dragon rouge qui vie dans les marches de narl (à l'ouest)~~ on l'as buté c'était pas un vrai dragon
 
 - 14  - ~~des explorateur gnomes ont prétendu cartographier le coin et sont partis vers la moufette~~ **C'est l'expedition de** [[Jubilost Narthropple]]
 
@@ -40,4 +38,7 @@
 
 - 11- ~~le seigneur cerf est revenu d'entre les morts et règne avec une armée de mort vivant venu d'une cripte~~ c'était faux mais cela parle de la sidequest [[Les trésors de la tombe]]
 
-- 
+-  5- ~~les bandits ne sont pas les uniques problèmes, les kobold et les gremlins trianent dans le coin~~ [[08. Donjon Grand Syccomore]]
+
+- 15 - ~~une sorcière appelé la sorcière des marrai cuisine des enfant dans son chaudron magiques~~ c'est faut c'est [[Elga Verniex]]
+

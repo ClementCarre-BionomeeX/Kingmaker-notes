@@ -11,7 +11,7 @@ Ce que l'on sais:
 - les cadavres des victimes contiennent des ==**petites graines noires**==, elles sembles inertes mais une seule graine suffit a activer la malédiction (gorge, estomac, etc...)
 - de nouveaux indices semblent suggérer le lien avec des ==fanatiques gobelins== qui ont établis leur camp dans les sellen hills
 - Un village de gobelin nommé  [[Vert-Ronchon]] serais la source de cette malédiction
-- Le fait que cette affliction soit sporadique sugère que le culte n'est pas encore trés implanté. Les gobelin suspecté serais peut ètre que des bouc émissaires. Si on parviens a découvrir ==ou le culte a crée l'affliction== cela permettrai de la supprimer totallement
+- Le fait que cette affliction soit sporadique sugère que le culte n'est pas encore trés implanté. Les gobelin suspecté serais peut ètre que des bouc émissaires. Si on parviens a ==découvrir ou le culte a crée l'affliction cela permettrai de la supprimer totallement==
 - c'est le culte de floraison qui ==vénère [[Lamashtu]]==, il pourrais a [[Vert-Ronchon]] chez les gobelins y avoir des infos sur le véritable culte de la floraison
 
 
@@ -29,7 +29,7 @@ Cadavre [[Grand sycomore]]
 - [[Elga Verniex]]
 - ~~[[Maegar Varn]] 
 - ~~Lac Pasd'argent,~~
-- [[L'ile aux chandelles]]
+- [[Kingmaker-notes-main/Principal/lieux/L'ile aux chandelles]]
 - Perlivache, ([[2024 11 07]])
 - [[Tiressia et Falkos]]
 - L'antre du dragon,
