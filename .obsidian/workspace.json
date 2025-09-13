@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kingmaker-notes-main/Principal/savoirs/Spectres de Fer.md",
+                "file": "Kingmaker-notes-main/Principal/seances/2025-08-27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spectres de Fer"
-            }
-          },
-          {
-            "id": "6b275268b3eac919",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kingmaker-notes-main/Principal/évènements/SIDEQUEESSSSTT/La floraison (énigme).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "La floraison (énigme)"
+              "title": "2025-08-27"
             }
           }
         ]
@@ -154,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kingmaker-notes-main/Principal/savoirs/Spectres de Fer.md",
+                "file": "Kingmaker-notes-main/Principal/seances/2025-08-27.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Spectres de Fer"
+              "title": "Plan de 2025-08-27"
             }
           }
         ],
@@ -172,6 +158,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
@@ -182,52 +169,52 @@
   },
   "active": "c51b1286514b023a",
   "lastOpenFiles": [
-    "Kingmaker-notes-main/Principal/savoirs/Légendes et Fables/Le jour de la Tarte.md",
-    "Kingmaker-notes-main/Principal/savoirs/Légendes et Fables/Le Corbeau, le Tanuki, le Renard et le Scarabée.md",
-    "Kingmaker-notes-main/Principal/savoirs/Dieux/Urgathoa.md",
-    "Kingmaker-notes-main/Principal/savoirs/Dieux/Shelin.md",
-    "Kingmaker-notes-main/Principal/savoirs/Dieux/Serenrae.md",
+    "Kingmaker-notes-main/Principal/seances/2025-09-03.md",
+    "Kingmaker-notes-main/Principal/seances/2025-09-04.md",
+    "Kingmaker-notes-main/Principal/seances/2025-09-10.md",
+    "Kingmaker-notes-main/Principal/évènements/Histoire/Partie 3/43. Attaque sur les cultistes.md",
+    "Kingmaker-notes-main/Principal/évènements/Histoire/Partie 3/41. Visite à Vert Ronchon.md",
+    "Kingmaker-notes-main/Principal/évènements/Histoire/Partie 3/42. Les querelles sans importance.md",
+    "Kingmaker-notes-main/Principal/lieux/Notre Royaume Hurebrume/Pavillon de chasse L'Auberg'Inn.md",
+    "Kingmaker-notes-main/Principal/lieux/Notre Royaume Hurebrume/Sanglier Suiffeux.md",
+    "Kingmaker-notes-main/Principal/lieux/Notre Royaume Hurebrume/Le marteau du sanglier.md",
+    "Kingmaker-notes-main/Principal/lieux/Notre Royaume Hurebrume/Gaie de tatzl.md",
+    "Kingmaker-notes-main/Principal/lieux/Notre Royaume Hurebrume/Comptoir commercial d'oleg.md",
+    "Kingmaker-notes-main/Principal/lieux/Notre Royaume Hurebrume/Castelnaud Sanglar.md",
+    "Kingmaker-notes-main/Principal/évènements/Rumeurs de la zone Est.md",
+    "Kingmaker-notes-main/Principal/personnages/Compagnons/Linzi.md",
+    "Kingmaker-notes-main/Principal/seances/2025-08-27.md",
     "Kingmaker-notes-main/Principal/seances/2025-08-04.md",
+    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/ça parle pas/Animaux en tout genre.md",
+    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/On peut leur parler/Gobelins.md",
     "Kingmaker-notes-main/Principal/seances/2025-07-29.md",
-    "Kingmaker-notes-main/Principal/évènements/Mystères/Le sceau de l'ile aux chandelles.md",
-    "Kingmaker-notes-main/Principal/lieux/L'ile aux chandelles.md",
-    "Kingmaker-notes-main/Principal/personnages/Les antagonistes/Muglund.md",
+    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/On peut leur parler/Spectre.md",
+    "Kingmaker-notes-main/Principal/seances/2025-07-18.md",
+    "Kingmaker-notes-main/Principal/seances/2025-07-16.md",
+    "Kingmaker-notes-main/Principal/seances/2025-07-07.md",
+    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/On peut leur parler/Cyclopes.md",
+    "Kingmaker-notes-main/Principal/seances/2025-07-02.md",
+    "Kingmaker-notes-main/Principal/seances/2025-06-26.md",
+    "notes/Images/Pasted image 20250913155223.png",
+    "notes/Images/Pasted image 20250913154716.png",
+    "notes/Images/Pasted image 20250913154650.png",
+    "notes/Images/Pasted image 20250913154316.png",
+    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/Comme un dragon",
+    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/Fées",
+    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/ça parle pas",
+    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/On peut leur parler",
+    "notes/Images/Pasted image 20250903220034.png",
+    "notes/Images/Pasted image 20250903215902.png",
+    "notes/Images/Pasted image 20250903135900.png",
+    "notes/Images/Pasted image 20250903135733.png",
+    "Kingmaker-notes-main/Principal/savoirs/Bestiaire",
     "notes/Images/Pasted image 20250825222245.png",
     "notes/Images/Pasted image 20250825221954.png",
-    "Kingmaker-notes-main/Principal/savoirs/Dieux/Lamashtu.md",
-    "Kingmaker-notes-main/Principal/seances/2025-06-26.md",
-    "Kingmaker-notes-main/Principal/seances/2025-05-29.md",
-    "Kingmaker-notes-main/Principal/seances/2025-05-27.md",
-    "Kingmaker-notes-main/Principal/seances/2025-05-15.md",
-    "Kingmaker-notes-main/Principal/seances/2025-05-07.md",
-    "Kingmaker-notes-main/Principal/seances/2025-07-18.md",
-    "Kingmaker-notes-main/Principal/seances/2025-07-02.md",
-    "notes/Images/Pasted image 20240830122203.png",
-    "notes/Images/Pasted image 20240830122119.png",
-    "notes/Images/Pasted image 20250825220801.png",
-    "notes/Images/Pasted image 20250825220339.png",
-    "Kingmaker-notes-main/Principal/savoirs/Dieux/Pharasma.md",
-    "notes/Images/Pasted image 20250825220221.png",
-    "Kingmaker-notes-main/Principal/évènements/Histoire/Partie 3/40. On croise Lirael sur l'ile au chandelles.md",
-    "notes/Images/Pasted image 20250825215112.png",
-    "Kingmaker-notes-main/Principal/lieux/Notre Royaume Hurebrume/Tours de royaume.md",
-    "Kingmaker-notes-main/Principal/évènements/Rumeurs de La zone centrale.md",
-    "Kingmaker-notes-main/Principal/évènements/Histoire/Partie 2/22. Les hommes Lezards.md",
-    "Kingmaker-notes-main/Principal/lieux/Lieu d'intérêt.md",
-    "notes/Images/Pasted image 20250825214059.png",
-    "notes/Images/Pasted image 20250825213900.png",
-    "Kingmaker-notes-main/Principal/seances/2025-07-16.md",
-    "Kingmaker-notes-main/Principal/évènements/Mystères/l'épée d'amiri.md",
     "Kingmaker-notes-main/Principal/évènements/Mystères",
     "Kingmaker-notes-main/Principal/savoirs/Légendes et Fables",
     "Kingmaker-notes-main/Principal/personnages/Nos Héros",
     "Kingmaker-notes-main/Principal/personnages/Autre/Exterieur au royaume",
     "Kingmaker-notes-main/Principal/personnages/Autre/Dans notre royaume",
-    "Kingmaker-notes-main/Principal/évènements/SIDEQUEESSSSTT/Terminado/Partie 3",
-    "Kingmaker-notes-main/Principal/seances/Partie 2",
-    "Kingmaker-notes-main/Principal/évènements/SIDEQUEESSSSTT/Terminado/Partie 2",
-    "Kingmaker-notes-main/Principal/évènements/Histoire/Partie 3",
-    "Kingmaker-notes-main/Principal/évènements/Histoire/Partie 2/Sans titre",
     "Sans titre.canvas"
   ]
 }

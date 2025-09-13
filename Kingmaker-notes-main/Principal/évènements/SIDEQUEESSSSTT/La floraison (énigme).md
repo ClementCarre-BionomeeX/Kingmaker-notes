@@ -13,6 +13,7 @@ Ce que l'on sais:
 - Un village de gobelin nommé  [[Vert-Ronchon]] serais la source de cette malédiction
 - Le fait que cette affliction soit sporadique sugère que le culte n'est pas encore trés implanté. Les gobelin suspecté serais peut ètre que des bouc émissaires. Si on parviens a ==découvrir ou le culte a crée l'affliction cela permettrai de la supprimer totallement==
 - c'est le culte de floraison qui ==vénère [[Lamashtu]]==, il pourrais a [[Vert-Ronchon]] chez les gobelins y avoir des infos sur le véritable culte de la floraison
+- le culte utillise [[Vert-Ronchon]] pour cacher leur origine reelle. L'origine de la malédiction est dans leur repère. Un espion se cache dans le village
 
 
 **Lieu de recherche:**
@@ -23,30 +24,32 @@ La bibliothèque de [[Restov]]
 Le corps de Jean Lumine
 Les cultistes chelou [[Sanglier Suiffeux]]
 Cadavre [[Grand sycomore]]
+[[Vert-Ronchon]]
 
 **Lieu ou on pourais mener l'enquète:**
 - ~~[[Bokken]]
 - [[Elga Verniex]]
 - ~~[[Maegar Varn]] 
 - ~~Lac Pasd'argent,~~
-- [[Kingmaker-notes-main/Principal/lieux/L'ile aux chandelles]]
+- ~~[[L'ile aux chandelles]]~~
 - Perlivache, ([[2024 11 07]])
 - [[Tiressia et Falkos]]
-- L'antre du dragon,
+- ~~L'antre du dragon,~~
 - [[Le marteau du sanglier]]
 - Zone détruite avec des plantes partout,
 - [[24. Le donjon Oublié]]
 - [[Cybours]]
 - ~~Le terrain de chasse
 - ~~[[Sanglier Suiffeux]]~~
-- Les hommes lezards, 
+- ~~Les hommes lezards,~~ 
 - Méliance nymphe du lac [[2025-05-07]]
 - ~~[[Les centaures (nomen)]]~~
-- [[Vert-Ronchon]]
+- ~~[[Vert-Ronchon]]~~
 
 
 **Personnes liées:**
 [[Jamel Visser]] a convoqué la première chasse
 [[Shen]] sa famille serais morte dans une situation similaire (explosion de fleur)
+[[Muglund]] espion du culte chez les gobelins
 
 [[Lamashtu]]
