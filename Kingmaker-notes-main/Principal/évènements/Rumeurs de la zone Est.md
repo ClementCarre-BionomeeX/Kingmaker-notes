@@ -8,4 +8,4 @@
 
 - 8- Nous en apprenons plus sur le sud, une vallée au sud serais un ancien cimetière gardé par une armée de fantômes cyclopes buveurs de sang (légendes autours de la vallée des morts)
 
-- 2- un oiseau géant vie dans les ruines d'une vielle tour du pic des serres
+- 2- ~~un oiseau géant vie dans les ruines d'une vielle tour du pic des serres~~ [[The omelette king]]

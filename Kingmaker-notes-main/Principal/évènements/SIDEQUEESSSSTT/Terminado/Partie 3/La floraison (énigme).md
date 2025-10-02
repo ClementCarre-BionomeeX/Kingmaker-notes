@@ -4,7 +4,7 @@ Lors d'une [[33. Invitation à la chasse]] organisée par [[Jamel Visser]] on d�
 Ce que l'on sais:
 - On note la présence de ==fleurs étranges==, venu d'un autre plan pres des lieux d'explosion
 - Plusieurs ==personnes explosent== et se transforment en monstre qui tuent par jeu
-- On entend parler d'un culte qui répandrai cette affliction dans toute la région et basé dans les étendu sauvages. Babiole entend des rumeurs de ==Culte/secte== qui viennent de [[Sanglier Suiffeux]], elles sont étranges, un truc cloche avec cette histoire de culte
+- On entend parler d'un culte qui répandrai cette affliction dans toute la région et basé dans les étendu sauvages. Babiole entend des rumeurs de ==Culte/secte== qui viennent de [[Sanglier Suiffeux (village)]], elles sont étranges, un truc cloche avec cette histoire de culte
 - Jubilost à étudié les fruits qui apparaissent, il confirme qu'ils ==**viennent du premier monde**==
 - on découvre que l'affliction est une ==**malédiction**== d'invocation, leur corps se transforme en portail (magie divine)
 - une victime de la malédiction ne présente aucun symptôme avant la fin ou de grosses douleurs apparaissent. il est possible de se débarrasser de la malédiction si on la repère avant la fin ce qui est difficile. Le culte semble être ==**apparut en premier chez les gobelins**==
@@ -22,7 +22,7 @@ Le cheval au bord du lac
 [[Varnhold]] (cadavre retrouvé la bas)
 La bibliothèque de [[Restov]]
 Le corps de Jean Lumine
-Les cultistes chelou [[Sanglier Suiffeux]]
+Les cultistes chelou [[Sanglier Suiffeux (village)]]
 Cadavre [[Grand sycomore]]
 [[Vert-Ronchon]]
 
@@ -35,12 +35,12 @@ Cadavre [[Grand sycomore]]
 - Perlivache, ([[2024 11 07]])
 - [[Tiressia et Falkos]]
 - ~~L'antre du dragon,~~
-- [[Le marteau du sanglier]]
+- [[Le marteau du sanglier (village)]]
 - Zone détruite avec des plantes partout,
 - [[24. Le donjon Oublié]]
 - [[Cybours]]
 - ~~Le terrain de chasse
-- ~~[[Sanglier Suiffeux]]~~
+- ~~[[Sanglier Suiffeux (village)]]~~
 - ~~Les hommes lezards,~~ 
 - Méliance nymphe du lac [[2025-05-07]]
 - ~~[[Les centaures (nomen)]]~~

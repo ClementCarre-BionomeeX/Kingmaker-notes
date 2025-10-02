@@ -1,4 +1,4 @@
-![[Pasted image 20250716194807.png]]
+![[Pasted image 20251002145222.png]]![[Pasted image 20250716194807.png]]
 
 leur chef se nomme Aecoa feu argenté
 ![[Pasted image 20250716203012.png]]
