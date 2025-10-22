@@ -1,7 +1,12 @@
+Noir: Ecaille de suie (nos alliés)
+Mik mek c'est notre pote
+Grudu leur chef
+
+
+
 Rouge
 ![[Pasted image 20250313231157.png]]
 
-Ecaille de suie (nos alliés)
 
 
 Vert
