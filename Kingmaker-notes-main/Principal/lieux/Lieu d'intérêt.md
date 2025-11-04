@@ -35,9 +35,9 @@ Hex #6.27 un squelette de dragon en haut d'une montagne
 
 Hex #2.28 site funéraire Centaure envahi par des manticores récemment (juste au dessous de restof) 
 
-Hex #4.27 On traverse la plaine et on trouve un zone pleine de trou et dépression, ce qui est étonnant Nous somme dans le domaine de Canquérata une vielle bulette (qui nage dans la terre)
+Hex #4.27 On traverse la plaine et on trouve un zone pleine de trou et dépression, ce qui est étonnant Nous somme dans le domaine de Canquérata une vielle [[Bulette]] (qui nage dans la terre)
 
-hex #8.23 pour la grotte de la side quest de la querelle ou l'exploratrice à disparu
+hex #8.23 pour la grotte de la side quest [[Querelles sans importance (Jubilost)]] ou l'exploratrice à disparu 
 
 
 Des tue loup poussent a l'est dans les montagnes au sud de nilacta (zone dangereuse)

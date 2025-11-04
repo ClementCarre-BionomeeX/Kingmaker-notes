@@ -6,5 +6,7 @@ Généralement plutôt Evil, ils ne ressentent pas ou peu d'émotion positives e
 
 Croissance de l'enragé pour se soigner un peut et devenir géant si ils n'infligent pas de dégâts pendant 1 tours ils arrêtent d'être gros et ils deviennent fatigué
 
-Ce sont tous des seigneur de guerre
+Ce sont tous des seigneurs de guerre
+
+
 

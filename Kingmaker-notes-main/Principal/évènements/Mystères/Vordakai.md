@@ -12,5 +12,9 @@ qui est'il?
 
 - c'est un mythe, il apparait dans beaucoup de contes, la zone au sud de chez les [[Les centaures (nomen)]] se trouve la vallée des morts ou se trouve sa tombe
 
+On se rend sur sa tombe pour sauver la princesse des [[Les centaures (nomen)]]
+
+hypotèse: a tout moment vordakay est un cyclope qui invoque des morts vivant et des corbeaux
+
 **Liens:**
 [[Rumeurs de la zone Est]] numéro 8

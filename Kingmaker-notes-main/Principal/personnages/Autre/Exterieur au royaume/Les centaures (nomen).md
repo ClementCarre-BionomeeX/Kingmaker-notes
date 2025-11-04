@@ -7,3 +7,5 @@ autre membres:
 - Gélylus nomé émissaire auprès de nous
 
 en conflict avec [[Maegar Varn]] et [[Varnhold]]
+
+[[48. Disparition de Xamanthe]]

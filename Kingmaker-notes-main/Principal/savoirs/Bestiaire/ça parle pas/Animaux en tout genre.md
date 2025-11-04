@@ -14,3 +14,6 @@ n'attaque que si on le provoque
 Ecureuil chelou:
 ![[Pasted image 20250825220801.png]]
 
+Mamouth:
+![[Pasted image 20251104133621.png]]
+
