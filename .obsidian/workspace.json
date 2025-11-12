@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kingmaker-notes-main/Principal/seances/2025-10-27.md",
+                "file": "Kingmaker-notes-main/Principal/savoirs/Bestiaire/Comme un dragon/Wyverne.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-27"
+              "title": "Wyverne"
+            }
+          },
+          {
+            "id": "baf81e09bcd73ae0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kingmaker-notes-main/Principal/seances/2025-11-05.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-05"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -155,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kingmaker-notes-main/Principal/seances/2025-10-27.md",
+                "file": "Kingmaker-notes-main/Principal/seances/2025-11-05.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de 2025-10-27"
+              "title": "Plan de 2025-11-05"
             }
           }
         ],
@@ -182,12 +196,28 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "fcc52d756f1a8c0f",
+  "active": "baf81e09bcd73ae0",
   "lastOpenFiles": [
-    "Kingmaker-notes-main/Principal/seances/2025-10-16.md",
-    "Kingmaker-notes-main/Principal/seances/2025-10-19.md",
-    "Kingmaker-notes-main/Principal/seances/2025-10-22.md",
+    "Kingmaker-notes-main/Principal/évènements/Histoire/Partie 4/49. Le tertre de Vordakaï.md",
+    "Kingmaker-notes-main/Principal/seances/2025-11-05.md",
     "Kingmaker-notes-main/Principal/seances/2025-10-27.md",
+    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/On peut leur parler/Zombie.md",
+    "notes/Images/Pasted image 20251112221949.png",
+    "Kingmaker-notes-main/Principal/lieux/Varnhold.md",
+    "Kingmaker-notes-main/Principal/personnages/Autre/Exterieur au royaume/Maegar Varn.md",
+    "notes/Images/Pasted image 20251112221452.png",
+    "Kingmaker-notes-main/Principal/personnages/ILS SONT MORTS/Tartuccio.md",
+    "Kingmaker-notes-main/Principal/personnages/ILS SONT MORTS/Seigneur Cerf.md",
+    "Kingmaker-notes-main/Principal/personnages/ILS SONT MORTS/Muglund.md",
+    "Kingmaker-notes-main/Principal/personnages/ILS SONT MORTS/Hargulka.md",
+    "Kingmaker-notes-main/Principal/personnages/ILS SONT MORTS/Darivan.md",
+    "Kingmaker-notes-main/Principal/personnages/Les antagonistes/Le clan Culchek.md",
+    "Kingmaker-notes-main/Principal/seances/2025-10-19.md",
+    "Kingmaker-notes-main/Principal/seances/2025-10-16.md",
+    "Kingmaker-notes-main/Principal/seances/2025-10-01.md",
+    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/Comme un dragon/Wyverne.md",
+    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/Comme un dragon/Vouivre.md",
+    "Kingmaker-notes-main/Principal/seances/2025-10-22.md",
     "Kingmaker-notes-main/Principal/lieux/olan-kakanket.md",
     "Kingmaker-notes-main/Principal/savoirs/Bestiaire/ça parle pas/Mangeur d'âme.md",
     "Kingmaker-notes-main/Principal/savoirs/Les six libertés.md",
@@ -196,31 +226,15 @@
     "Kingmaker-notes-main/Principal/évènements/Rumeurs de La zone centrale.md",
     "Kingmaker-notes-main/Principal/lieux/Lieu d'intérêt.md",
     "Kingmaker-notes-main/Principal/savoirs/Bestiaire/ça parle pas/Bulette.md",
-    "Kingmaker-notes-main/Principal/évènements/Histoire/Partie 4/48. Disparition de Xamanthe.md",
-    "Kingmaker-notes-main/Principal/personnages/Autre/Exterieur au royaume/Les centaures (nomen).md",
     "Kingmaker-notes-main/Principal/évènements/Histoire/Partie 4/Sans titre",
-    "Kingmaker-notes-main/Principal/personnages/Les antagonistes/Gragglebarde.md",
-    "Kingmaker-notes-main/Principal/personnages/Les antagonistes/Grigori.md",
-    "Kingmaker-notes-main/Principal/personnages/Nos Héros/Hel Morigan.md",
-    "Kingmaker-notes-main/Principal/personnages/Nos Héros/Babiole.md",
-    "Kingmaker-notes-main/Principal/personnages/Nos Héros/Shen.md",
-    "Kingmaker-notes-main/Principal/personnages/Nos Héros/Thibald petit ange parti trop tot.md",
-    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/On peut leur parler/Zombie.md",
-    "Kingmaker-notes-main/Principal/savoirs/Dieux/Les Ainés.md",
-    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/Comme un dragon/Wyverne.md",
-    "Kingmaker-notes-main/Principal/évènements/Mystères/Vordakai.md",
     "notes/Images/Pasted image 20251104135235.png",
     "notes/Images/Pasted image 20251104135050.png",
-    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/ça parle pas/Animaux en tout genre.md",
-    "Kingmaker-notes-main/Principal/personnages/Compagnons/Kalikke - Kenerah.md",
     "notes/Images/Pasted image 20251104133621.png",
     "notes/Images/Pasted image 20251027200830.png",
     "notes/Images/Pasted image 20251019204241.png",
     "notes/Images/Pasted image 20251019204151.png",
     "notes/Images/Pasted image 20251019195430.png",
     "notes/Images/Pasted image 20251019194942.png",
-    "notes/Images/Pasted image 20251019194341.png",
-    "notes/Images/Pasted image 20251019194202.png",
     "Kingmaker-notes-main/Principal/seances 1/Partie 3",
     "Kingmaker-notes-main/Principal/seances 1/Partie 2",
     "Kingmaker-notes-main/Principal/seances 1/Partie 1",
