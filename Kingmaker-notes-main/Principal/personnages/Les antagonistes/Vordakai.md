@@ -1,10 +1,12 @@
-qui est'il?
+![[Pasted image 20251119121408.png]]
+![[Pasted image 20251119121428.png]]
+Utilise un ancien rituel qui consiste a consommer le cerveau pour récupérer les souvenirs des gens
 
-**indices:**
+**indices lors de sa recherche:**
 
 - Des cultistes tentent de s'en protéger 
 
-- Dieu de la mort local (et notamment des morts vivants) ... très très local
+- Dieu de la mort local (et notamment des morts vivants) … très très local
 
 - c'est un conte qui se transmet, un monstre roi des mort vivants
 
@@ -18,3 +20,5 @@ hypotèse: a tout moment vordakay est un cyclope qui invoque des morts vivant et
 
 **Liens:**
 [[Rumeurs de la zone Est]] numéro 8
+[[Tertres des Rashalka]]
+[[olan-kakanket]]

@@ -3,5 +3,5 @@ Violet fungus
 Toxique
 
 Champignons criard:
-Donnent l'alarme car emmetent un cri quand on approche
+Donnent l'alarme car émettent un cri quand on approche
 

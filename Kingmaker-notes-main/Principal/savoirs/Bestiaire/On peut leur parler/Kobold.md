@@ -4,7 +4,7 @@ Grudu leur chef
 
 
 
-Rouge
+Rouge et noir
 ![[Pasted image 20250313231157.png]]
 
 
