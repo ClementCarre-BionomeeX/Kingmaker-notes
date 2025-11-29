@@ -1,6 +1,18 @@
 ![[Pasted image 20251119121408.png]]
 ![[Pasted image 20251119121428.png]]
+c'est une liche
+il a un sort de domination qui permet de prendre le contrôle d'un de nous
+il peut une fois par jour réussir automatiquement un jet
+pas de faiblesse a la vitalité
+ne résiste pas au feu
+peut paraliser
+
 Utilise un ancien rituel qui consiste a consommer le cerveau pour récupérer les souvenirs des gens
+
+ils ont été capturé a cause de l'appel d'un oeil, l'occulus d'abadon qu'on a trouvé sur [[Vordakai]]
+Vordakai avais remplacé son oeil par l'oculus d'abadon
+
+Son objectif serais de vouloir créer ou recréer un empire, son éveil etait récent
 
 **indices lors de sa recherche:**
 
@@ -22,3 +34,5 @@ hypotèse: a tout moment vordakay est un cyclope qui invoque des morts vivant et
 [[Rumeurs de la zone Est]] numéro 8
 [[Tertres des Rashalka]]
 [[olan-kakanket]]
+[[Maegar Varn]]
+[[Ervil Pendrod]]

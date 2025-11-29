@@ -12,7 +12,7 @@ subit les dégât de vitalité
 **Cyclope**
 ![[Pasted image 20251119121248.png]]
 immunisés à l'intimidation
-ce sont de vieux zombies
+ce sont de vieux zombies, il sont ralentis 1 de manière permanente
 résistance aux dégât contendant, persans 
 
 

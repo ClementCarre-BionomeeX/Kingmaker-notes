@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kingmaker-notes-main/Principal/seances/2025-11-16.md",
+                "file": "Kingmaker-notes-main/Principal/seances/2025-11-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-16"
+              "title": "2025-11-25"
             }
           }
         ],
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kingmaker-notes-main/Principal/seances/2025-11-16.md",
+                "file": "Kingmaker-notes-main/Principal/seances/2025-11-25.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de 2025-11-16"
+              "title": "Plan de 2025-11-25"
             }
           }
         ],
@@ -196,8 +196,27 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "baf81e09bcd73ae0",
+  "active": "48a3c88eb71b97ea",
   "lastOpenFiles": [
+    "Kingmaker-notes-main/Principal/personnages/Autre/Exterieur au royaume/Les centaures (nomen).md",
+    "Kingmaker-notes-main/Principal/seances/2025-11-25.md",
+    "notes/Images/Pasted image 20251129170209.png",
+    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/On peut leur parler/Zombie.md",
+    "Kingmaker-notes-main/Principal/personnages/ILS SONT MORTS/Vordakai.md",
+    "Kingmaker-notes-main/Principal/seances/2025-11-19.md",
+    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/ça parle pas/Mangeur d'âme.md",
+    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/On peut leur parler/Piscodaemon.md",
+    "notes/Images/Pasted image 20251129165218.png",
+    "Kingmaker-notes-main/Principal/savoirs/Dieux/Charon.md",
+    "Kingmaker-notes-main/Principal/seances/2025-11-16.md",
+    "Kingmaker-notes-main/Principal/personnages/ILS SONT MORTS/Maegar Varn.md",
+    "Kingmaker-notes-main/Principal/personnages/Autre/Exterieur au royaume/Ervil Pendrod.md",
+    "Kingmaker-notes-main/Principal/seances/2025-11-05.md",
+    "Kingmaker-notes-main/Principal/seances/2025-10-27.md",
+    "Kingmaker-notes-main/Principal/seances/2025-10-22.md",
+    "Kingmaker-notes-main/Principal/seances/2025-10-19.md",
+    "Kingmaker-notes-main/Principal/seances/2025-10-16.md",
+    "Kingmaker-notes-main/Principal/lieux/Varnhold.md",
     "Kingmaker-notes-main/Principal/seances/Partie 1/2024 08 29.md",
     "Kingmaker-notes-main/Principal/savoirs/Dieux/Urgathoa.md",
     "Kingmaker-notes-main/Principal/savoirs/Dieux/Shelin.md",
@@ -207,23 +226,6 @@
     "Kingmaker-notes-main/Principal/savoirs/Dieux/Lamashtu.md",
     "Kingmaker-notes-main/Principal/savoirs/Dieux/Gyronna.md",
     "Kingmaker-notes-main/Principal/savoirs/Dieux/Groétus.md",
-    "Kingmaker-notes-main/Principal/savoirs/Dieux/Gorum.md",
-    "Kingmaker-notes-main/Principal/savoirs/Dieux/Erastil.md",
-    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/On peut leur parler/Zombie.md",
-    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/On peut leur parler/Troll.md",
-    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/On peut leur parler/Spriggan.md",
-    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/On peut leur parler/Spectre.md",
-    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/On peut leur parler/Ogre.md",
-    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/On peut leur parler/Loup Garoux.md",
-    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/On peut leur parler/Kobold.md",
-    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/On peut leur parler/Homme Lézard.md",
-    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/On peut leur parler/Hobgoblin.md",
-    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/On peut leur parler/Gobelins.md",
-    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/On peut leur parler/Geunodes.md",
-    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/On peut leur parler/Géant.md",
-    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/On peut leur parler/Dopelganger.md",
-    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/On peut leur parler/Cyclopes.md",
-    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/On peut leur parler/Cultiste.md",
     "notes/Images/Pasted image 20251119121428.png",
     "notes/Images/Pasted image 20251119121408.png",
     "notes/Images/Pasted image 20251119121340.png",
@@ -233,8 +235,6 @@
     "Kingmaker-notes-main/Principal/évènements/Histoire/Partie 4/Sans titre",
     "notes/Images/Pasted image 20251104135235.png",
     "notes/Images/Pasted image 20251104135050.png",
-    "notes/Images/Pasted image 20251104133621.png",
-    "notes/Images/Pasted image 20251027200830.png",
     "Kingmaker-notes-main/Principal/seances 1/Partie 3",
     "Kingmaker-notes-main/Principal/seances 1/Partie 2",
     "Kingmaker-notes-main/Principal/seances 1/Partie 1",
