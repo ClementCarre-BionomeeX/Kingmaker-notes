@@ -17,3 +17,5 @@ Ecureuil chelou:
 Mamouth:
 ![[Pasted image 20251104133621.png]]
 
+Ils nous chargent
+ils ont pas d'attaque d'oportunitée

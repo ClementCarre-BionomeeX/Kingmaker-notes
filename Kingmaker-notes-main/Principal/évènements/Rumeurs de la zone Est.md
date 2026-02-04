@@ -1,8 +1,8 @@
 **Obtenues:**
-1 - 2 - 3 - 8 - 10
+1 - 2 - 3 - 6 - 8 - 10
 
 **Manque:**
-4-5-6-7-9
+4-5-7-9
 
 - 1- un dragon d'argent vie dans les escarpement des levigni mais il n'a pas été vu depuis longtemps à t'il disparu?
 
@@ -13,5 +13,7 @@
 - 10 - On pense que le chef des [[Spriggan]], Agai (les centaures sont en guerre contre eux) , aurais volé leur arc magique qui appartenais au chef des centaures
 
 - 3 - On dit que des monstres aquatiques vivent dans le lac marche argenté mais les anguilles y sont délicieuses
+
+- 6- le père d'un ami de son cousin était chercheur de minerais et il y a dit qu'il y avais de bon gisement au sud du lac marche argenté
 
 
