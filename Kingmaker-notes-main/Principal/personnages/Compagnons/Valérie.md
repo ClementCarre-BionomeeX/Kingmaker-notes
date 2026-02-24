@@ -13,3 +13,6 @@ Nommée Trésorière de notre royaume elle aime bof, du coup on l'as nomée gén
 **Lieu:**
 [[Manoir de Dame Jamandi]]
 [[Comptoir commercial d'oleg]]
+
+Quète:
+[[Valérie et ses prétendants]]

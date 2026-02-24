@@ -1,0 +1,2 @@
+[[Valérie]] est fatiguée d'avoir trop de prétendant et elle recoit trop de cadeaux, elle nous offre certains cadeau (on aura les infos plus tard). 
+Elle voudrai etre reconnu pour sa force au combat plutot que pour sa beautée

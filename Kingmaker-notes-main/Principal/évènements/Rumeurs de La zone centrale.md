@@ -16,7 +16,7 @@
 
 - 3 - ~~rumeur donnée par Svetlana - Le pont qui enjambais la corneille au sud est a été détruit et d'après la rumeur le fantôme du gardien ante le site davik orthiz~~ (fantome apaisé)
 
-- 8- Le chasseur dit avoir vu une licorne dans les lande de narl mais personne ne la vu depuis longtemps aurais t'elle été chassée?
+- 8- ~~Le chasseur dit avoir vu une licorne dans les lande de narl mais personne ne la vu depuis longtemps aurais t'elle été chassée?~~ [[Le tueur de licorne]]
 
 - 4- ~~les bandits se montrent plus organisé, ils sont mené par un bandit vêtu d'os d'animaux qui se fait appeler le seigneur cerf~~ [[14. La fin du Seigneur Cerf]]
 

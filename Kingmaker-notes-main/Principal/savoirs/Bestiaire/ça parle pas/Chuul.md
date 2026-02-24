@@ -3,3 +3,5 @@
 C'est un abomination
 Ils grabent
 ils ont des mandibules
+jet de sauvegarde le plus faible volonté
+ils ont une attaque d'opportunité

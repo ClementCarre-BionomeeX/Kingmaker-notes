@@ -5,6 +5,12 @@ Se régénère chaque tour sauf si on lui fait des dégâts d'Acide et/ou de feu
 troll de pierre:
 faiblesse a acide et song
 
+roi troll:
+![[Pasted image 20260208211233.png]]
+charge qui leur permet d'attaquer en même temps
+faiblesse de 10 au feu
+attaque d'opportunité
+
 
 Divers:
 

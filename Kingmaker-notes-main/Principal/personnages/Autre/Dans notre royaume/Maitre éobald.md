@@ -1,4 +1,3 @@
-
 ![[Pasted image 20250511231311.png]]
 
 L'ancien proffesseur de [[Linzi]]

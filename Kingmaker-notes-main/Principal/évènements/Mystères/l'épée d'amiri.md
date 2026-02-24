@@ -4,3 +4,5 @@ Les morceau de l'éppée ce mettent a scintiller, a trembler et l'eppée ce refo
 
 On a croisé [[Ekundayo]]
 on lui parle de l'arme d'Amiri, il semblerai qu'elle ai reussi a runer son arme il n'as pas connaissance sur des eppees qui se recontruisent specifiquement chez les geants 
+
+On découvre que l'épée est une sorte de prison qui  contient une **ame mystérieuse**, c'est elle qui répare la lame quand elle est brisé: un rituel de liberté pourrais **libérer l'ame**

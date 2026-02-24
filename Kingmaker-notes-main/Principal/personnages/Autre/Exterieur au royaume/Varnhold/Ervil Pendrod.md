@@ -1,3 +1,5 @@
+![[Pasted image 20260208214112.png]]
+
 un barde connu de la région
 probablement un gnome?
 

@@ -26,6 +26,7 @@ Nommée Emissaire de notre royaume, est particulièrement investie
 [[Comptoir commercial d'oleg]]
 [[Kionin]]
 
-
+Quète:
+[[Jaethal la fugitive]]
 ## Tags
 #mort-vivant #[[Urgathoa|urgathoa]] #necromantie
