@@ -1,7 +1,7 @@
 le déplacement est difficile
 
 Ce que l'on sais:
-- Le lac est dangereux il y a le Crochelang dedans, c'est un gros serpend et c'est le maitre du marais (il faut respecter la nature sinon elle te mange)
+- Le lac est dangereux il y a  Crochelang dedans, c'est un gros serpend et c'est le maitre du marais (il faut respecter la nature sinon elle te mange)
 -  il y a des bourberien en 5.11et les bourberiens a plusieurs sont bon chasseurs
 - Il y a village de grande fourmi (homme fourmi?) en 8.12 [[Le village des bogstrider]]
 - les limaces sont au sud apres les grandes fourmi (ils faut pas les attaquer) 
@@ -9,3 +9,7 @@ Ce que l'on sais:
 - il existe un sage "le vieu" parmis les geant des marais qui connais toutes les légendes
 
 Créatures:
+[[Bogstrider]]
+[[Bourberien]]
+[[Géant]] des marais
+[[Limace géantes]]

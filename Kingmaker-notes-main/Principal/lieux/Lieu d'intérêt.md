@@ -39,6 +39,8 @@ Hex #4.27 On traverse la plaine et on trouve un zone pleine de trou et dépressi
 
 hex #8.23 pour la grotte de la side quest [[Querelles sans importance (Jubilost)]] ou l'exploratrice à disparu 
 
+hex #9.10 dans le [[Marais Crochlang]] des traces de pa semble venir de l'ouest et repartir vers l'ouest
+
 
 Des tue loup poussent a l'est dans les montagnes au sud de nilacta (zone dangereuse)
 

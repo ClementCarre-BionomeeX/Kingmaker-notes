@@ -3,6 +3,9 @@ De givre:
 
 Des collines:
 ![[Pasted image 20250502000040.png]]
+ils peuvent taper plusieurs mecs en même temps
+
+
 
 Des marées:
 ![[Pasted image 20260211222604.png]]

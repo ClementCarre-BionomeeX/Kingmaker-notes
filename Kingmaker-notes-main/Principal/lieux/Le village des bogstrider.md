@@ -1,3 +1,3 @@
-dans [[Le marais crochlang]] en Hex 8.12
+dans [[Marais Crochlang]] en Hex 8.12
 
-[[Les Bogstrider]]
+[[Bogstrider]]
