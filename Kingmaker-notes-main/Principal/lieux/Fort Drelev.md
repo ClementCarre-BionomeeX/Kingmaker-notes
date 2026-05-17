@@ -2,7 +2,7 @@ Hex  5.10
 
 Cité crée par [[Hannis Drelev]]
 
-On sais que [[Grigori]] avait été engagé par quelqu'un qui lui envoyais des colis depuis cette ville
+On sais que [[Grigori Vals]] avait été engagé par quelqu'un qui lui envoyais des colis depuis cette ville
 
 Lieu repéré
 - La tour des garde (ne pas s'appuyer aux barières)

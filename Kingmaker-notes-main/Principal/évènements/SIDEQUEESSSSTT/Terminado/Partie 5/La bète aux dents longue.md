@@ -1,0 +1,1 @@
+On trouve un affiche de recherche: Il y aurais un monstre, clebar a dent longue qui aurais tué des gardes, dans la zone juste au dessus de [[Fort Drelev]] (il a tué beaucoup de gardes) La récompense est de 2000 po

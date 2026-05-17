@@ -13,4 +13,4 @@ c'est un universitaire, il n'est pas tres patient (surtout avec les non diplomé
 - le plus simple pour l'influencer est de discuter avec lui de conaissance universitaires
 - on peut discuter artisanat avec lui pour parler alchimie
 
-a recruté [[Grigori]] pour son journal
+a recruté [[Grigori Vals]] pour son journal

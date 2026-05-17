@@ -13,7 +13,12 @@ A crée son propre royaume
 Marié à [[Barone Pavetta]]
 
 C'est "allié" avec [[Castruccio Irroveti]] et [[Armag (seigneur tigre)]]  pour nous attaquer
+Il donne des villageois a manger a des géants 
 
+anis a une attaque d'opportunité
+(il a des stat de voleur)
+
+Fini par se rendre, on le fait prisonnier
 
 
 **Lieu**

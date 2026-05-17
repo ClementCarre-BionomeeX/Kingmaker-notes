@@ -10,6 +10,8 @@ A l'air d'être contre nous
 
 Des gens quittent leur pays pour se réfugier chez nous
 
+il n'y aurais pas de lien particulier entre Pitax et [[Royaume de Dag]], ils se retrouvent de temps a autre au festival de vive lumière, des jeux organisé a Pitac
+
 quète:
 [[Sauver les réfugié de Pitax]]
 

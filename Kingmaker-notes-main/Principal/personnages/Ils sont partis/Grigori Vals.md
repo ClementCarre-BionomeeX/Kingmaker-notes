@@ -9,6 +9,6 @@ On peut entre autre l'intimider pour gagner des camembert et le faire taire
 On découvre qu'il est employé par des mecs de 
 pour nous discréditer
 
-On s'en sert pour lui attenter un proces  et [[Grigori]] est bani
+On s'en sert pour lui attenter un proces  et [[Grigori Vals]] est bani
 
 Kazan lui dit que peut etre nous travaillerons ensemble un jour

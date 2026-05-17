@@ -1,3 +1,13 @@
 C'est le seigneur des seigneurs tigres
 il dit etre la réincarnation d'un ancien guerrier, on l'appelle le deux fois née
-il a un air fou, sauvage, et une épée rouge trés étrange
+il a un air fou, sauvage
+Il peut ètre concidéré comme un illuminé, la reincarnation d'une phophétie
+
+il a retrouvé a [[Fort Drelev]] des reliques de seigneur tigre qui avaient ete pillé par des colon de drelev
+
+
+
+
+**En lien avec:**
+[[non officielle - Déchiffrer les notes du tertre]]
+[[57- A la recherche d'Armag]]
