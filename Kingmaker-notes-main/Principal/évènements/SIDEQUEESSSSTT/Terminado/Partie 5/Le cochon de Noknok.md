@@ -1,0 +1,5 @@
+[[Nok-Nok]] est devenu pote avec un cochon originaire de fort drelev il pense pouvoir s'infiltrer. 
+Un cochon avec des griffes, pleins de poils, trois tetes, des cornes sur deux des tetes et des dents partout, des ailes rouges et une queue pas en tire bouchon
+
+ce sont des [[Chimères]]
+on en a kill 3

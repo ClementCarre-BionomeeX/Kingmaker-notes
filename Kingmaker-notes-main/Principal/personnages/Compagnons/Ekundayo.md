@@ -1,5 +1,6 @@
 ![[Pasted image 20241029201431.png]]
 ![[Pasted image 20241029220454.png]]
+![[Pasted image 20260518211804.png]]
 
 Nous le rencontrons dans la foret, bléssé et inconscient. Nous sauvons son chien d'une attaque de loup et il nous conduit à lui
 l a un air stoïque et impassible

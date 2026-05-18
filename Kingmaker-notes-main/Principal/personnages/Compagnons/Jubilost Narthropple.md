@@ -1,5 +1,6 @@
 ![[Pasted image 20250224184140.png]]
 ![[Pasted image 20250224184202.png]]
+![[Pasted image 20260518211824.png]]
 
 il travaille pour La pierre étoile le journal d'Absalon
 il nous prend un peut de haut

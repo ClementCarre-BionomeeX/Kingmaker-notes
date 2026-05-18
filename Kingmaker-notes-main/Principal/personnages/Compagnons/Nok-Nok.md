@@ -1,5 +1,7 @@
 
 ![[Nok-Nok.webp]]
+![[Pasted image 20260518211843.png]]
+![[Pasted image 20260518212046.png]]
 
 **Information Obtenues**
 - Gobelin qui souhaite devenir un héro, il va nous coller au basques

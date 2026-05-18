@@ -1,3 +1,4 @@
+![[Pasted image 20260518205648.png]]
 
 Il parait qu'il y à des tatzlwyrm (tete de dragon et corps de serpent) plus au sud . 
 [[Oleg et Svetlana]] aimerai accrocher une de leur tête dans sa maison

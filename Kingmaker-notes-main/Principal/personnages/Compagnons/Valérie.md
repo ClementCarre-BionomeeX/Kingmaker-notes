@@ -3,6 +3,7 @@ tags:
   - personnage
 ---
 ![[Pasted image 20240830122807.png|right]]![[Pasted image 20240830122819.png|right]]
+![[Pasted image 20260518211927.png]]
 
 **Information Obtenues:**
 Ancien champion de [[Shelin]] ultra saoulé par elle maintenant
