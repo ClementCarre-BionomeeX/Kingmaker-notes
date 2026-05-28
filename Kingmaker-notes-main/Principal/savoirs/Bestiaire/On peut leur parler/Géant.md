@@ -16,3 +16,8 @@ ils nous jettent des cailloux
 ils ont une malédiction, la malédiction du marin
 
 [[Frumbar le géant des marais]]
+
+des taiga
+![[Pasted image 20260528103105.png]]
+peut projeter des rocher
+peut faire un rituel religieux qui lui donne un bonus a sa CA (des visages spectraux tournent autours de lui)

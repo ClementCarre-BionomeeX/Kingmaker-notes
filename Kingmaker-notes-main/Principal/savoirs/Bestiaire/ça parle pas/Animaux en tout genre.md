@@ -11,8 +11,14 @@ Mégalocéros
 ![[Pasted image 20250707162313.png]]
 n'attaque que si on le provoque
 
-Ecureuil chelou:
+Ecureuil chelou (aurumvorax)
 ![[Pasted image 20250825220801.png]]
+il a le grab non affecté par le map
+met du saignement
+reflexe +16
+ils ont férocité (ils restent a 1pv au lieu de mourir)
+labourage rapide : 4 frapes de grippe d'affilé
+
 
 Mamouth:
 ![[Pasted image 20251104133621.png]]

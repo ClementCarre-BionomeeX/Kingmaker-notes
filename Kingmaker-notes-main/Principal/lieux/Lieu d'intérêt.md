@@ -41,6 +41,8 @@ hex #8.23 pour la grotte de la side quest [[Querelles sans importance (Jubilost)
 
 hex #9.10 dans le [[Marais Crochlang]] des traces de pa semble venir de l'ouest et repartir vers l'ouest
 
+hex #2.10 lieu ou [[Armag (seigneur tigre)]] cherche des infos pour son épée
+
 
 Des tue loup poussent a l'est dans les montagnes au sud de nilacta (zone dangereuse)
 
