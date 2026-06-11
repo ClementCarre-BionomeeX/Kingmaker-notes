@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6c96bd24219f54f5",
+        "id": "8d9e18cdb15a2acd",
         "type": "tabs",
         "children": [
           {
-            "id": "d452414ea23a41d3",
+            "id": "4fd5d657a9f302a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kingmaker-notes-main/Principal/savoirs/Bestiaire/On peut leur parler/Servantes de Gyronna.md",
+                "file": "Kingmaker-notes-main/Principal/seances/2026-06-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Servantes de Gyronna"
+              "title": "2026-06-10"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gobelours",
+                "query": "armag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kingmaker-notes-main/Principal/savoirs/Bestiaire/On peut leur parler/Servantes de Gyronna.md",
+                "file": "Kingmaker-notes-main/Principal/seances/2026-06-10.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Servantes de Gyronna"
+              "title": "Plan de 2026-06-10"
             }
           }
         ],
@@ -167,53 +167,54 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "d452414ea23a41d3",
+  "active": "48a3c88eb71b97ea",
   "lastOpenFiles": [
-    "Kingmaker-notes-main/Principal/seances/2026-05-27.md",
-    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/On peut leur parler/Servantes de Gyronna.md",
-    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/ça parle pas/Plantes chelou.md",
-    "Kingmaker-notes-main/Principal/seances/2026-05-23.md",
-    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/On peut leur parler/Géant.md",
-    "notes/Images/Pasted image 20260528103105.png",
-    "Kingmaker-notes-main/Principal/lieux/La tombe d'armag.md",
-    "notes/Images/Pasted image 20260528101105.png",
+    "Kingmaker-notes-main/Principal/seances/2026-06-03.md",
+    "Kingmaker-notes-main/Principal/seances/2026-06-10.md",
+    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/On peut leur parler/Zombie.md",
+    "notes/Images/Sans titre 2 1.base",
+    "notes/Images/Pasted image 20260611230313.png",
+    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/ça parle pas/Golem.md",
+    "notes/Images/Pasted image 20260611224044.png",
+    "Kingmaker-notes-main/Principal/évènements/Histoire/Partie 5/57- A la recherche d'Armag.md",
+    "notes/Images/Sans titre 3 1.base",
+    "notes/Images/Sans titre 1.canvas",
+    "notes/Images/Sans titre 1 3.base",
+    "notes/Images/Sans titre 5.base",
+    "Kingmaker-notes-main/Principal/savoirs/Spectres de Fer.md",
+    "Kingmaker-notes-main/Principal/savoirs/Les six libertés.md",
+    "Kingmaker-notes-main/Principal/savoirs/Légendes et Fables/Le jour de la Tarte.md",
+    "Kingmaker-notes-main/Principal/savoirs/Légendes et Fables/Le Corbeau, le Tanuki, le Renard et le Scarabée.md",
+    "Kingmaker-notes-main/Principal/savoirs/Légendes et Fables/La couronlette.md",
+    "Kingmaker-notes-main/Principal/savoirs/Légendes et Fables/La ballade de la Floraison.md",
+    "Kingmaker-notes-main/Principal/savoirs/Dieux/Urgathoa.md",
+    "Kingmaker-notes-main/Principal/savoirs/Dieux/Shelin.md",
+    "Kingmaker-notes-main/Principal/savoirs/Dieux/Serenrae.md",
+    "Kingmaker-notes-main/Principal/savoirs/Dieux/Pharasma.md",
+    "Kingmaker-notes-main/Principal/savoirs/Dieux/Les Ainés.md",
+    "Kingmaker-notes-main/Principal/savoirs/Dieux/Lamashtu.md",
+    "Kingmaker-notes-main/Principal/savoirs/Dieux/Hanspur.md",
     "Kingmaker-notes-main/Principal/savoirs/Dieux/Gyronna.md",
-    "Kingmaker-notes-main/Principal/lieux/Lieu d'intérêt.md",
-    "Kingmaker-notes-main/Principal/seances/2026-05-17.md",
-    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/ça parle pas/Animaux en tout genre.md",
-    "Kingmaker-notes-main/Principal/personnages/Les antagonistes/Gragglebarde.md",
-    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/ça parle pas/Pudding.md",
-    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/ça parle pas/Volatiles en tout genre.md",
-    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/ça parle pas/Manticores.md",
-    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/ça parle pas/Mangeur d'âme.md",
-    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/ça parle pas/Loups.md",
-    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/ça parle pas/Limace géantes.md",
-    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/ça parle pas/L'oiseau Roc.md",
-    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/ça parle pas/Karkajou.md",
-    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/ça parle pas/Hydre.md",
-    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/ça parle pas/Hodag.md",
-    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/ça parle pas/Hibours.md",
-    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/ça parle pas/Elementaire.md",
-    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/ça parle pas/Elasmosaurus de rivière.md",
-    "Kingmaker-notes-main/Principal/savoirs/Bestiaire/ça parle pas/Dweomercat.md",
+    "Kingmaker-notes-main/Principal/savoirs/Dieux/Groétus.md",
+    "Kingmaker-notes-main/Principal/savoirs/Dieux/Gorum.md",
+    "Kingmaker-notes-main/Principal/savoirs/Dieux/Gogunta.md",
+    "Kingmaker-notes-main/Principal/savoirs/Dieux/Erastil.md",
+    "Kingmaker-notes-main/Principal/savoirs/Dieux/Charon.md",
+    "Kingmaker-notes-main/Principal/savoirs/Dieux/Calistria.md",
+    "notes/Images/Pasted image 20260606160057.png",
+    "notes/Images/Pasted image 20260606160026.png",
+    "notes/Images/Pasted image 20260606155800.png",
+    "notes/Images/Pasted image 20260606155756.png",
+    "notes/Images/Pasted image 20260606155647.png",
+    "notes/Images/Pasted image 20260528103105.png",
+    "notes/Images/Pasted image 20260528101105.png",
     "notes/Images/Pasted image 20260518212046.png",
-    "notes/Images/Pasted image 20260518211953.png",
-    "notes/Images/Pasted image 20260518211927.png",
-    "notes/Images/Pasted image 20260518211904.png",
-    "notes/Images/Pasted image 20260518211843.png",
-    "notes/Images/Pasted image 20260518211824.png",
-    "notes/Images/Pasted image 20260518211804.png",
-    "notes/Images/Pasted image 20260518211741.png",
     "notes/Images/Sans titre 4.base",
     "notes/Images/Sans titre 1 2.base",
     "notes/Images/Sans titre 3.base",
     "Kingmaker-notes-main/Principal/évènements/SIDEQUEESSSSTT/Terminado/Partie 5",
     "Kingmaker-notes-main/Principal/personnages/Autre/Exterieur au royaume/Varnhold",
     "Kingmaker-notes-main/Principal/personnages/Autre/Exterieur au royaume/Fort Drevel",
-    "Kingmaker-notes-main/Principal/personnages/Ils sont partis",
-    "Kingmaker-notes-main/Principal/personnages/Les antagonistes/Sans titre",
-    "Kingmaker-notes-main/Principal/personnages/Autre/Dans notre royaume/Sans titre",
-    "Kingmaker-notes-main/Principal/seances/Partie 4",
     "notes/Images/Sans titre.canvas"
   ]
 }

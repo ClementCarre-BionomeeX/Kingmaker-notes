@@ -7,6 +7,7 @@ Il peut ètre concidéré comme un illuminé, la reincarnation d'une phophétie
 
 il a retrouvé a [[Fort Drelev]] des reliques de seigneur tigre qui avaient ete pillé par des colon de drelev
 
+il est accompagné de sœur qui semble prier une divinité peu recommandable et a priori il les traite comme si elles étaient ses mères: [[Servantes de Gyronna]] culte "les sœurs de l'œil ensanglanté"
 
 
 

@@ -22,3 +22,8 @@ magicien de [[Maegar Varn]] et [[Varnhold]]
 il résiste aux dégat contendants
 il lance des sort (vol, bouclier)
 
+**squelettes de tiger lord**
+![[Pasted image 20260611230313.png]]
+se soignent au début de leur tour
+ont des arcs
+résistance au froid, feu, tranchant, électrique, perforant

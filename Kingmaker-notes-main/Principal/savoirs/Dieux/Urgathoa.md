@@ -7,5 +7,5 @@
 
 
 **Adorateurs connus**
-Hel Morigan
+[[Hel Morigan]]
 [[Jaethal]]

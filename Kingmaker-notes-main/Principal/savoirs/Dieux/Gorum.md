@@ -4,3 +4,4 @@ Gorum est le seigneur des batailles, le père du conflit qui ne prend plaisir qu
 
 **Adorateurs connus**
 [[Amiri]]
+[[Armag (seigneur tigre)]]

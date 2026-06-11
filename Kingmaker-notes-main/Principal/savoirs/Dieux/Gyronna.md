@@ -9,6 +9,7 @@ sous culte "les soeur de l'oeil ensenglanté"
 
 **Adeptes connus:**
 Des occultistes croisées en route qui voulaient envahir notre royaumes (4 on les a buté)
+[[Servantes de Gyronna]]
 
 Lien:
 Ses adeptes ont demandé une protection contre [[Vordakai]]
