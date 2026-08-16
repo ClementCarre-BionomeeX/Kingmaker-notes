@@ -1,0 +1,1 @@
+c'est un cheval rendu intelligent par un druide, c'était un vieux druide des royaume fluviaux. Il est mort maintenant, il vivais dans la foret proche de la nature.

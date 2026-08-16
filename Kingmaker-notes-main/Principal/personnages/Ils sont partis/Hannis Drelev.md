@@ -23,7 +23,7 @@ Fini par se rendre, on le fait prisonnier
 
 **Lieu**
 [[Manoir de Dame Jamandi]]
-[[Fort Drelev]]
+[[Fort Drelev (Babiolgrad)]]
 
 Sidequest:
 [[Aider Fort Drevel]]

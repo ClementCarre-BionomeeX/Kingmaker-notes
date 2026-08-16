@@ -1,6 +1,6 @@
 ![[Pasted image 20260208211314.png]]
 
-Le général de [[Fort Drelev]] et donc [[Hannis Drelev]]
+Le général de [[Fort Drelev (Babiolgrad)]] et donc [[Hannis Drelev]]
 
 un rustre, 
 pas trés malin

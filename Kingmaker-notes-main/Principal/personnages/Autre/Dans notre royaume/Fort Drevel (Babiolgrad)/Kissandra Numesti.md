@@ -1,7 +1,7 @@
 ![[Pasted image 20260204152614.png]]
 
 Fille de [[Térion Numesti]] qui a été mis en prison (pour avoir refusé de collaborer avec son seigneur)
-Vien de [[Fort Drelev]]
+Vien de [[Fort Drelev (Babiolgrad)]]
 
 Est venu nous prévenir de l'attaque de notre royaume par [[Hannis Drelev]] allié à [[Castruccio Irroveti]]
 

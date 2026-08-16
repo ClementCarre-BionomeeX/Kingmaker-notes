@@ -1,6 +1,6 @@
 ![[Pasted image 20260403140402.png]]
 
-propriétaire de la maison de jeu de [[Fort Drelev]]
+propriétaire de la maison de jeu de [[Fort Drelev (Babiolgrad)]]
 
 alliée de [[Kissandra Numesti]], potentiellement notre alliée également
 

@@ -17,6 +17,8 @@ influence plus facile en connaissance de la pègre, religion (Lamashtu n'est pas
 
 Noknok change d'alignement, devien chaotique neutre. Il comprend que les héros ne sont pas cruel et que [[Lamashtu]] est imparfaite et il l'accepte
 
+Sa foie va maintenant à [[Gorum]]
+
 Lieu:
 [[Comptoir commercial d'oleg]]
 [[Castelnaud Sanglar (ville)]]

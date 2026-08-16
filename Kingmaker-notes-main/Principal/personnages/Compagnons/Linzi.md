@@ -6,7 +6,7 @@ tags:
 ![[Pasted image 20260518211953.png]]
 
 **Information Obtenues:**
-Barde vient de [[Pitax]]
+Barde vient de [[Pitax]] mais n'y est pas née
 Halfeling
 sensible a performance et société
 N'apprécie pas [[Tartuccio]] car il soutien leur roi 

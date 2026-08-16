@@ -13,6 +13,8 @@ Lieu repéré
 - Chateau
 - Quartier du port
 
+Entré dans notre royaume apres sa libération, et renommé Babiolgrad
+
 
 Habitants connu:
 [[Hannis Drelev]]

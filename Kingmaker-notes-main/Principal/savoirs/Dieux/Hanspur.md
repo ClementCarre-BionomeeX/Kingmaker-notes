@@ -2,4 +2,4 @@
 
 Dieu des rivières
 
-A un autel à [[Fort Drelev]]
+A un autel à [[Fort Drelev (Babiolgrad)]]
